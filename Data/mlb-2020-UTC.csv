@@ -1,0 +1,901 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,23/07/2020 23:08,Nationals Park,Washington Nationals,New York Yankees,1 - 4
+2,1,24/07/2020 02:08,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,8 - 1
+3,1,24/07/2020 20:10,Citi Field,New York Mets,Atlanta Braves,1 - 0
+4,1,24/07/2020 22:10,Great American Ball Park,Cincinnati Reds,Detroit Tigers,7 - 1
+5,1,24/07/2020 22:40,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,4 - 6
+6,1,24/07/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,2 - 5
+7,1,24/07/2020 23:10,Progressive Field,Cleveland Indians,Kansas City Royals,2 - 0
+8,1,24/07/2020 23:10,Wrigley Field,Chicago Cubs,Milwaukee Brewers,3 - 0
+9,1,24/07/2020 23:30,Fenway Park,Boston Red Sox,Baltimore Orioles,13 - 2
+10,1,25/07/2020 00:05,Globe Life Field,Texas Rangers,Colorado Rockies,1 - 0
+11,1,25/07/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,5 - 10
+12,1,25/07/2020 00:15,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,5 - 4
+13,1,25/07/2020 01:10,Petco Park,San Diego Padres,Arizona Diamondbacks,7 - 2
+14,1,25/07/2020 01:10,Minute Maid Park,Houston Astros,Seattle Mariners,8 - 2
+15,1,25/07/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,9 - 1
+16,1,25/07/2020 02:10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,7 - 3
+17,1,25/07/2020 17:05,Wrigley Field,Chicago Cubs,Milwaukee Brewers,3 - 8
+18,1,25/07/2020 17:35,Fenway Park,Boston Red Sox,Baltimore Orioles,2 - 7
+19,1,25/07/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,10 - 3
+20,1,25/07/2020 18:15,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,9 - 1
+21,1,25/07/2020 19:10,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,4 - 1
+22,1,25/07/2020 20:05,Globe Life Field,Texas Rangers,Colorado Rockies,2 - 3
+23,1,25/07/2020 20:05,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,7 - 1
+24,1,25/07/2020 20:10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,1 - 4
+25,1,25/07/2020 20:10,Minute Maid Park,Houston Astros,Seattle Mariners,7 - 2
+26,1,25/07/2020 20:10,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,4 - 5
+27,1,25/07/2020 20:10,Citi Field,New York Mets,Atlanta Braves,3 - 5
+28,1,25/07/2020 21:10,Great American Ball Park,Cincinnati Reds,Detroit Tigers,4 - 6
+29,1,25/07/2020 21:10,Progressive Field,Cleveland Indians,Kansas City Royals,2 - 3
+30,1,25/07/2020 23:15,Nationals Park,Washington Nationals,New York Yankees,9 - 2
+31,1,26/07/2020 01:10,Petco Park,San Diego Padres,Arizona Diamondbacks,5 - 1
+32,1,26/07/2020 17:05,Citizens Bank Park,Philadelphia Phillies,Miami Marlins,6 - 11
+33,1,26/07/2020 17:05,Nationals Park,Washington Nationals,New York Yankees,2 - 3
+34,1,26/07/2020 17:10,Great American Ball Park,Cincinnati Reds,Detroit Tigers,2 - 3
+35,1,26/07/2020 17:10,Progressive Field,Cleveland Indians,Kansas City Royals,9 - 2
+36,1,26/07/2020 17:10,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,6 - 5
+37,1,26/07/2020 17:35,Fenway Park,Boston Red Sox,Baltimore Orioles,4 - 7
+38,1,26/07/2020 18:10,Minute Maid Park,Houston Astros,Seattle Mariners,6 - 7
+39,1,26/07/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,2 - 14
+40,1,26/07/2020 18:15,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,1 - 5
+41,1,26/07/2020 18:20,Wrigley Field,Chicago Cubs,Milwaukee Brewers,9 - 1
+42,1,26/07/2020 18:35,Globe Life Field,Texas Rangers,Colorado Rockies,2 - 5
+43,1,26/07/2020 20:10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,6 - 4
+44,1,26/07/2020 20:10,Petco Park,San Diego Padres,Arizona Diamondbacks,3 - 4
+45,1,26/07/2020 23:08,Citi Field,New York Mets,Atlanta Braves,1 - 14
+46,1,27/07/2020 02:08,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,1 - 3
+47,1,27/07/2020 19:40,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,3 - 0
+48,1,27/07/2020 20:10,Petco Park,San Diego Padres,Arizona Diamondbacks,6 - 2
+49,1,27/07/2020 22:05,Nationals Park,Washington Nationals,Toronto Blue Jays,1 - 4
+50,1,27/07/2020 22:40,Great American Ball Park,Cincinnati Reds,Chicago Cubs,7 - 8
+51,1,27/07/2020 22:40,Tropicana Field,Tampa Bay Rays,Atlanta Braves,14 - 5
+52,1,27/07/2020 23:05,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,5 - 6
+53,1,27/07/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,6 - 14
+54,1,27/07/2020 23:10,Minute Maid Park,Houston Astros,Seattle Mariners,8 - 5
+55,1,27/07/2020 23:35,Fenway Park,Boston Red Sox,New York Mets,4 - 7
+56,1,28/07/2020 03:33,Progressive Field,Cleveland Indians,Chicago White Sox,5 - 3
+57,1,28/07/2020 19:40,Progressive Field,Cleveland Indians,Chicago White Sox,4 - 3
+58,1,28/07/2020 22:05,Nationals Park,Washington Nationals,Toronto Blue Jays,1 - 5
+59,1,28/07/2020 22:40,Great American Ball Park,Cincinnati Reds,Chicago Cubs,5 - 8
+60,1,28/07/2020 22:40,Tropicana Field,Tampa Bay Rays,Atlanta Braves,5 - 2
+61,1,28/07/2020 23:05,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,8 - 6
+62,1,28/07/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,4 - 3
+63,1,28/07/2020 23:30,Fenway Park,Boston Red Sox,New York Mets,3 - 8
+64,1,29/07/2020 00:10,Target Field,Minnesota Twins,St. Louis Cardinals,6 - 3
+65,1,29/07/2020 01:05,Globe Life Field,Texas Rangers,Arizona Diamondbacks,1 - 4
+66,1,29/07/2020 01:10,Minute Maid Park,Houston Astros,Los Angeles Dodgers,2 - 5
+67,1,29/07/2020 01:40,Oakland Coliseum,Oakland Athletics,Colorado Rockies,3 - 8
+68,1,29/07/2020 01:40,Angel Stadium,Los Angeles Angels,Seattle Mariners,10 - 2
+69,1,29/07/2020 01:45,Oracle Park,San Francisco Giants,San Diego Padres,3 - 5
+70,1,29/07/2020 19:40,Oakland Coliseum,Oakland Athletics,Colorado Rockies,1 - 5
+71,1,29/07/2020 20:05,Globe Life Field,Texas Rangers,Arizona Diamondbacks,7 - 4
+72,1,29/07/2020 22:05,Nationals Park,Toronto Blue Jays,Washington Nationals,0 - 4
+73,1,29/07/2020 22:10,Progressive Field,Cleveland Indians,Chicago White Sox,0 - 4
+74,1,29/07/2020 22:40,Great American Ball Park,Cincinnati Reds,Chicago Cubs,12 - 7
+75,1,29/07/2020 23:05,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,0 - 3
+76,1,29/07/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,5 - 4
+77,1,29/07/2020 23:10,Minute Maid Park,Houston Astros,Los Angeles Dodgers,2 - 4
+78,1,29/07/2020 23:10,Citi Field,New York Mets,Boston Red Sox,5 - 6
+79,1,29/07/2020 23:10,Truist Park,Atlanta Braves,Tampa Bay Rays,7 - 4
+80,1,29/07/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,3 - 9
+81,1,30/07/2020 00:10,Target Field,Minnesota Twins,St. Louis Cardinals,3 - 0
+82,1,30/07/2020 01:45,Oracle Park,San Francisco Giants,San Diego Padres,7 - 6
+83,1,30/07/2020 02:10,Angel Stadium,Los Angeles Angels,Seattle Mariners,7 - 10
+84,2,30/07/2020 20:05,Nationals Park,Toronto Blue Jays,Washington Nationals,4 - 6
+85,2,30/07/2020 23:05,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,6 - 8
+86,2,30/07/2020 23:07,Citi Field,New York Mets,Boston Red Sox,2 - 4
+87,2,30/07/2020 23:07,Target Field,Minnesota Twins,Cleveland Indians,0 - 2
+88,2,30/07/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,3 - 5
+89,2,30/07/2020 23:10,Truist Park,Atlanta Braves,Tampa Bay Rays,2 - 1
+90,2,31/07/2020 01:40,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,3 - 6
+91,2,31/07/2020 01:40,Angel Stadium,Los Angeles Angels,Seattle Mariners,5 - 8
+92,2,31/07/2020 01:45,Oracle Park,San Francisco Giants,San Diego Padres,7 - 12
+93,2,31/07/2020 23:05,Yankee Stadium,New York Yankees,Boston Red Sox,5 - 1
+94,2,31/07/2020 23:10,Comerica Park,Detroit Tigers,Cincinnati Reds,7 - 2
+95,2,31/07/2020 23:10,Truist Park,Atlanta Braves,New York Mets,11 - 10
+96,2,31/07/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,6 - 3
+97,2,01/08/2020 00:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,2 - 3
+98,2,01/08/2020 00:10,Coors Field,Colorado Rockies,San Diego Padres,7 - 8
+99,2,01/08/2020 00:10,Target Field,Minnesota Twins,Cleveland Indians,4 - 1
+100,2,01/08/2020 00:15,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,6 - 3
+101,2,01/08/2020 01:10,Angel Stadium,Los Angeles Angels,Houston Astros,6 - 9
+102,2,01/08/2020 01:10,Oracle Park,San Francisco Giants,Texas Rangers,9 - 2
+103,2,01/08/2020 01:40,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,5 - 3
+104,2,01/08/2020 01:40,T-Mobile Park,Seattle Mariners,Oakland Athletics,5 - 3
+105,2,01/08/2020 23:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,5 - 11
+106,2,01/08/2020 23:07,Angel Stadium,Los Angeles Angels,Houston Astros,5 - 4
+107,2,01/08/2020 23:07,Yankee Stadium,New York Yankees,Boston Red Sox,5 - 2
+108,2,01/08/2020 23:10,Target Field,Minnesota Twins,Cleveland Indians,3 - 0
+109,2,01/08/2020 23:10,Truist Park,Atlanta Braves,New York Mets,7 - 1
+110,2,01/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,5 - 4
+111,2,02/08/2020 00:10,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,2 - 11
+112,2,02/08/2020 00:10,Coors Field,Colorado Rockies,San Diego Padres,6 - 1
+113,2,02/08/2020 00:15,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,4 - 3
+114,2,02/08/2020 01:10,T-Mobile Park,Seattle Mariners,Oakland Athletics,2 - 3
+115,2,02/08/2020 01:10,Oracle Park,San Francisco Giants,Texas Rangers,7 - 3
+116,2,02/08/2020 03:33,Comerica Park,Detroit Tigers,Cincinnati Reds,0 - 4
+117,2,02/08/2020 16:10,Comerica Park,Detroit Tigers,Cincinnati Reds,3 - 4
+118,2,02/08/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,5 - 1
+119,2,02/08/2020 17:10,Truist Park,Atlanta Braves,New York Mets,4 - 0
+120,2,02/08/2020 18:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,2 - 9
+121,2,02/08/2020 18:10,Target Field,Minnesota Twins,Cleveland Indians,3 - 1
+122,2,02/08/2020 18:20,Wrigley Field,Chicago Cubs,Pittsburgh Pirates,2 - 1
+123,2,02/08/2020 19:10,Coors Field,Colorado Rockies,San Diego Padres,9 - 6
+124,2,02/08/2020 20:05,Oracle Park,San Francisco Giants,Texas Rangers,5 - 9
+125,2,02/08/2020 20:10,Angel Stadium,Los Angeles Angels,Houston Astros,5 - 6
+126,2,02/08/2020 20:10,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,0 - 3
+127,2,02/08/2020 20:10,T-Mobile Park,Seattle Mariners,Oakland Athletics,2 - 3
+128,2,02/08/2020 23:08,Yankee Stadium,New York Yankees,Boston Red Sox,9 - 7
+129,2,03/08/2020 22:40,Great American Ball Park,Cincinnati Reds,Cleveland Indians,3 - 2
+130,2,03/08/2020 23:05,Yankee Stadium,New York Yankees,Philadelphia Phillies,6 - 3
+131,2,03/08/2020 23:10,Truist Park,Atlanta Braves,New York Mets,2 - 7
+132,2,04/08/2020 00:10,Target Field,Minnesota Twins,Pittsburgh Pirates,5 - 4
+133,2,04/08/2020 00:10,Miller Park,Milwaukee Brewers,Chicago White Sox,4 - 6
+134,2,04/08/2020 00:15,Wrigley Field,Chicago Cubs,Kansas City Royals,2 - 0
+135,2,04/08/2020 00:40,Coors Field,Colorado Rockies,San Francisco Giants,7 - 6
+136,2,04/08/2020 01:10,Petco Park,San Diego Padres,Los Angeles Dodgers,5 - 4
+137,2,04/08/2020 01:10,T-Mobile Park,Seattle Mariners,Oakland Athletics,1 - 11
+138,2,04/08/2020 18:10,Target Field,Minnesota Twins,Pittsburgh Pirates,7 - 3
+139,2,04/08/2020 22:10,Great American Ball Park,Cincinnati Reds,Cleveland Indians,2 - 4
+140,2,04/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Boston Red Sox,5 - 1
+141,2,04/08/2020 23:05,Nationals Park,Washington Nationals,New York Mets,5 - 3
+142,2,04/08/2020 23:10,Truist Park,Atlanta Braves,Toronto Blue Jays,10 - 1
+143,2,04/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Miami Marlins,0 - 4
+144,2,05/08/2020 00:10,Miller Park,Milwaukee Brewers,Chicago White Sox,2 - 3
+145,2,05/08/2020 00:15,Wrigley Field,Chicago Cubs,Kansas City Royals,5 - 4
+146,2,05/08/2020 00:40,Coors Field,Colorado Rockies,San Francisco Giants,5 - 2
+147,2,05/08/2020 01:10,Chase Field,Arizona Diamondbacks,Houston Astros,2 - 8
+148,2,05/08/2020 01:10,Petco Park,San Diego Padres,Los Angeles Dodgers,2 - 5
+149,2,05/08/2020 01:10,Oakland Coliseum,Oakland Athletics,Texas Rangers,5 - 1
+150,2,05/08/2020 02:10,T-Mobile Park,Seattle Mariners,Los Angeles Angels,3 - 5
+151,2,05/08/2020 03:33,Citizens Bank Park,Philadelphia Phillies,New York Yankees,1 - 3
+152,2,05/08/2020 07:33,Oriole Park at Camden Yards,Miami Marlins,Baltimore Orioles,2 - 1
+153,2,05/08/2020 20:05,Citizens Bank Park,New York Yankees,Philadelphia Phillies,7 - 11
+154,2,05/08/2020 21:05,Oriole Park at Camden Yards,Baltimore Orioles,Miami Marlins,0 - 1
+155,2,05/08/2020 22:05,Nationals Park,Washington Nationals,New York Mets,1 - 3
+156,2,05/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Boston Red Sox,0 - 5
+157,2,05/08/2020 23:05,PNC Park,Pittsburgh Pirates,Minnesota Twins,2 - 5
+158,2,05/08/2020 23:10,Progressive Field,Cleveland Indians,Cincinnati Reds,2 - 0
+159,2,05/08/2020 23:10,Truist Park,Atlanta Braves,Toronto Blue Jays,1 - 2
+160,2,06/08/2020 00:05,Kauffman Stadium,Kansas City Royals,Chicago Cubs,1 - 6
+161,2,06/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Milwaukee Brewers,0 - 1
+162,2,06/08/2020 00:40,Coors Field,Colorado Rockies,San Francisco Giants,3 - 4
+163,2,06/08/2020 01:10,Chase Field,Arizona Diamondbacks,Houston Astros,14 - 7
+164,2,06/08/2020 01:10,Petco Park,San Diego Padres,Los Angeles Dodgers,6 - 7
+165,2,06/08/2020 01:10,Oakland Coliseum,Oakland Athletics,Texas Rangers,6 - 4
+166,2,06/08/2020 01:40,T-Mobile Park,Seattle Mariners,Los Angeles Angels,7 - 6
+167,3,06/08/2020 17:35,PNC Park,Pittsburgh Pirates,Minnesota Twins,6 - 5
+168,3,06/08/2020 19:10,Coors Field,Colorado Rockies,San Francisco Giants,6 - 4
+169,3,06/08/2020 19:40,Oakland Coliseum,Oakland Athletics,Texas Rangers,6 - 4
+170,3,06/08/2020 20:10,T-Mobile Park,Seattle Mariners,Los Angeles Angels,1 - 6
+171,3,06/08/2020 22:05,Citizens Bank Park,Philadelphia Phillies,New York Yankees,5 - 4
+172,3,06/08/2020 22:10,Progressive Field,Cleveland Indians,Cincinnati Reds,13 - 0
+173,3,06/08/2020 23:07,Chase Field,Arizona Diamondbacks,Houston Astros,5 - 4
+174,3,06/08/2020 23:07,Kauffman Stadium,Kansas City Royals,Chicago Cubs,13 - 2
+175,3,06/08/2020 23:10,Truist Park,Atlanta Braves,Toronto Blue Jays,4 - 3
+176,3,06/08/2020 23:35,Oriole Park at Camden Yards,Miami Marlins,Baltimore Orioles,8 - 7
+177,3,07/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Milwaukee Brewers,3 - 8
+178,3,07/08/2020 22:05,Nationals Park,Washington Nationals,Baltimore Orioles,0 - 11
+179,3,07/08/2020 22:40,Tropicana Field,Tampa Bay Rays,New York Yankees,1 - 0
+180,3,07/08/2020 23:05,PNC Park,Pittsburgh Pirates,Detroit Tigers,13 - 17
+181,3,07/08/2020 23:10,Citi Field,New York Mets,Miami Marlins,3 - 4
+182,3,07/08/2020 23:30,Fenway Park,Boston Red Sox,Toronto Blue Jays,5 - 3
+183,3,08/08/2020 00:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,3 - 2
+184,3,08/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,2 - 0
+185,3,08/08/2020 00:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,3 - 8
+186,3,08/08/2020 01:05,Globe Life Field,Texas Rangers,Los Angeles Angels,4 - 3
+187,3,08/08/2020 01:10,Oakland Coliseum,Oakland Athletics,Houston Astros,3 - 2
+188,3,08/08/2020 01:10,Petco Park,San Diego Padres,Arizona Diamondbacks,3 - 0
+189,3,08/08/2020 01:40,T-Mobile Park,Seattle Mariners,Colorado Rockies,4 - 8
+190,3,08/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,7 - 2
+191,3,08/08/2020 03:33,Tropicana Field,Tampa Bay Rays,New York Yankees,5 - 3
+192,3,08/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,1 - 7
+193,3,08/08/2020 18:10,Tropicana Field,Tampa Bay Rays,New York Yankees,4 - 8
+194,3,08/08/2020 20:05,PNC Park,Pittsburgh Pirates,Detroit Tigers,5 - 11
+195,3,08/08/2020 20:10,Oakland Coliseum,Oakland Athletics,Houston Astros,3 - 1
+196,3,08/08/2020 22:05,Nationals Park,Washington Nationals,Baltimore Orioles,3 - 5
+197,3,08/08/2020 22:05,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,5 - 0
+198,3,08/08/2020 23:05,Globe Life Field,Texas Rangers,Los Angeles Angels,2 - 0
+199,3,08/08/2020 23:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,9 - 6
+200,3,08/08/2020 23:10,Citi Field,New York Mets,Miami Marlins,8 - 4
+201,3,08/08/2020 23:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,1 - 4
+202,3,08/08/2020 23:30,Fenway Park,Boston Red Sox,Toronto Blue Jays,1 - 2
+203,3,09/08/2020 01:10,Petco Park,San Diego Padres,Arizona Diamondbacks,2 - 3
+204,3,09/08/2020 01:10,T-Mobile Park,Seattle Mariners,Colorado Rockies,0 - 5
+205,3,09/08/2020 01:10,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,4 - 5
+206,3,09/08/2020 03:33,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,0 - 8
+207,3,09/08/2020 16:35,Nationals Park,Washington Nationals,Baltimore Orioles,2 - 6
+208,3,09/08/2020 17:05,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,2 - 5
+209,3,09/08/2020 17:10,Citi Field,New York Mets,Miami Marlins,4 - 2
+210,3,09/08/2020 17:10,Tropicana Field,Tampa Bay Rays,New York Yankees,4 - 3
+211,3,09/08/2020 17:35,PNC Park,Pittsburgh Pirates,Detroit Tigers,1 - 2
+212,3,09/08/2020 17:35,Fenway Park,Boston Red Sox,Toronto Blue Jays,5 - 3
+213,3,09/08/2020 18:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,4 - 2
+214,3,09/08/2020 18:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,9 - 3
+215,3,09/08/2020 18:35,Globe Life Field,Texas Rangers,Los Angeles Angels,7 - 3
+216,3,09/08/2020 20:10,Oakland Coliseum,Oakland Athletics,Houston Astros,7 - 2
+217,3,09/08/2020 20:10,Petco Park,San Diego Padres,Arizona Diamondbacks,9 - 5
+218,3,09/08/2020 20:10,T-Mobile Park,Seattle Mariners,Colorado Rockies,5 - 3
+219,3,09/08/2020 20:10,Dodger Stadium,Los Angeles Dodgers,San Francisco Giants,6 - 2
+220,3,09/08/2020 23:08,Guaranteed Rate Field,Chicago White Sox,Cleveland Indians,4 - 5
+221,3,10/08/2020 22:05,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,13 - 8
+222,3,10/08/2020 23:10,Citi Field,New York Mets,Washington Nationals,4 - 16
+223,3,10/08/2020 23:10,Comerica Park,Detroit Tigers,Chicago White Sox,5 - 1
+224,3,10/08/2020 23:30,Fenway Park,Boston Red Sox,Tampa Bay Rays,7 - 8
+225,3,11/08/2020 00:10,Miller Park,Milwaukee Brewers,Minnesota Twins,2 - 4
+226,3,11/08/2020 00:40,Coors Field,Colorado Rockies,Arizona Diamondbacks,8 - 12
+227,3,11/08/2020 01:05,Globe Life Field,Texas Rangers,Seattle Mariners,2 - 10
+228,3,11/08/2020 01:10,Minute Maid Park,Houston Astros,San Francisco Giants,6 - 4
+229,3,11/08/2020 01:40,Angel Stadium,Los Angeles Angels,Oakland Athletics,10 - 9
+230,3,11/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,1 - 2
+231,3,11/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Miami Marlins,5 - 4
+232,3,11/08/2020 22:40,Great American Ball Park,Cincinnati Reds,Kansas City Royals,6 - 5
+233,3,11/08/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,9 - 10
+234,3,11/08/2020 23:05,Yankee Stadium,New York Yankees,Atlanta Braves,9 - 6
+235,3,11/08/2020 23:10,Progressive Field,Cleveland Indians,Chicago Cubs,1 - 7
+236,3,11/08/2020 23:10,Citi Field,New York Mets,Washington Nationals,1 - 2
+237,3,11/08/2020 23:10,Comerica Park,Detroit Tigers,Chicago White Sox,4 - 8
+238,3,11/08/2020 23:30,Fenway Park,Boston Red Sox,Tampa Bay Rays,2 - 8
+239,3,12/08/2020 00:10,Miller Park,Milwaukee Brewers,Minnesota Twins,6 - 4
+240,3,12/08/2020 00:40,Coors Field,Colorado Rockies,Arizona Diamondbacks,8 - 7
+241,3,12/08/2020 01:05,Globe Life Field,Texas Rangers,Seattle Mariners,4 - 2
+242,3,12/08/2020 01:10,Minute Maid Park,Houston Astros,San Francisco Giants,6 - 7
+243,3,12/08/2020 01:40,Angel Stadium,Los Angeles Angels,Oakland Athletics,6 - 0
+244,3,12/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,2 - 6
+245,3,12/08/2020 17:10,Comerica Park,Detroit Tigers,Chicago White Sox,5 - 7
+246,3,12/08/2020 19:10,Coors Field,Colorado Rockies,Arizona Diamondbacks,7 - 13
+247,3,12/08/2020 20:10,Angel Stadium,Los Angeles Angels,Oakland Athletics,4 - 8
+248,3,12/08/2020 22:10,Progressive Field,Cleveland Indians,Chicago Cubs,2 - 7
+249,3,12/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Miami Marlins,11 - 14
+250,3,12/08/2020 22:40,Great American Ball Park,Cincinnati Reds,Kansas City Royals,4 - 5
+251,3,12/08/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,4 - 5
+252,3,12/08/2020 23:05,Yankee Stadium,New York Yankees,Atlanta Braves,6 - 3
+253,3,12/08/2020 23:10,Citi Field,New York Mets,Washington Nationals,11 - 6
+254,3,12/08/2020 23:10,Minute Maid Park,Houston Astros,San Francisco Giants,5 - 1
+255,3,12/08/2020 23:10,Miller Park,Milwaukee Brewers,Minnesota Twins,2 - 12
+256,3,12/08/2020 23:30,Fenway Park,Boston Red Sox,Tampa Bay Rays,5 - 9
+257,3,13/08/2020 01:05,Globe Life Field,Texas Rangers,Seattle Mariners,7 - 4
+258,3,13/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,6 - 0
+259,4,13/08/2020 17:10,Citi Field,New York Mets,Washington Nationals,8 - 2
+260,4,13/08/2020 20:05,Citizens Bank Park,Philadelphia Phillies,Baltimore Orioles,4 - 11
+261,4,13/08/2020 20:30,Fenway Park,Boston Red Sox,Tampa Bay Rays,8 - 17
+262,4,13/08/2020 21:10,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,6 - 9
+263,4,13/08/2020 23:15,Wrigley Field,Chicago Cubs,Milwaukee Brewers,4 - 2
+264,4,14/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,San Diego Padres,11 - 2
+265,4,14/08/2020 21:05,Oriole Park at Camden Yards,Washington Nationals,Baltimore Orioles,2 - 6
+266,4,14/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,12 - 4
+267,4,14/08/2020 22:59,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,3 - 15
+268,4,14/08/2020 23:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,6 - 5
+269,4,14/08/2020 23:05,Yankee Stadium,New York Yankees,Boston Red Sox,10 - 3
+270,4,14/08/2020 23:10,Comerica Park,Detroit Tigers,Cleveland Indians,5 - 10
+271,4,14/08/2020 23:10,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,8 - 1
+272,4,14/08/2020 23:10,Marlins Park,Miami Marlins,Atlanta Braves,8 - 2
+273,4,15/08/2020 00:15,Wrigley Field,Chicago Cubs,Milwaukee Brewers,3 - 4
+274,4,15/08/2020 00:40,Coors Field,Colorado Rockies,Texas Rangers,2 - 3
+275,4,15/08/2020 01:10,Minute Maid Park,Houston Astros,Seattle Mariners,11 - 1
+276,4,15/08/2020 01:40,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,4 - 7
+277,4,15/08/2020 01:40,Chase Field,Arizona Diamondbacks,San Diego Padres,5 - 1
+278,4,15/08/2020 01:45,Oracle Park,San Francisco Giants,Oakland Athletics,7 - 8
+279,4,15/08/2020 07:33,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,3 - 6
+280,4,15/08/2020 07:33,Target Field,Minnesota Twins,Kansas City Royals,2 - 4
+281,4,15/08/2020 17:10,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,1 - 5
+282,4,15/08/2020 17:35,Target Field,Minnesota Twins,Kansas City Royals,4 - 2
+283,4,15/08/2020 19:20,Wrigley Field,Chicago Cubs,Milwaukee Brewers,5 - 6
+284,4,15/08/2020 22:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,6 - 2
+285,4,15/08/2020 22:10,Comerica Park,Detroit Tigers,Cleveland Indians,1 - 3
+286,4,15/08/2020 22:10,Marlins Park,Miami Marlins,Atlanta Braves,1 - 2
+287,4,15/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,2 - 3
+288,4,15/08/2020 23:07,Oracle Park,San Francisco Giants,Oakland Athletics,6 - 7
+289,4,15/08/2020 23:07,Yankee Stadium,New York Yankees,Boston Red Sox,11 - 5
+290,4,15/08/2020 23:10,Minute Maid Park,Houston Astros,Seattle Mariners,2 - 1
+291,4,15/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,7 - 3
+292,4,16/08/2020 00:10,Chase Field,Arizona Diamondbacks,San Diego Padres,7 - 6
+293,4,16/08/2020 00:10,Coors Field,Colorado Rockies,Texas Rangers,4 - 6
+294,4,16/08/2020 01:40,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,5 - 6
+295,4,16/08/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,Washington Nationals,5 - 6
+296,4,16/08/2020 17:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,6 - 2
+297,4,16/08/2020 17:07,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,2 - 3
+298,4,16/08/2020 17:10,Comerica Park,Detroit Tigers,Cleveland Indians,5 - 8
+299,4,16/08/2020 17:10,Marlins Park,Miami Marlins,Atlanta Braves,0 - 4
+300,4,16/08/2020 18:07,Sahlen Field,Toronto Blue Jays,Tampa Bay Rays,5 - 7
+301,4,16/08/2020 18:10,Minute Maid Park,Houston Astros,Seattle Mariners,3 - 2
+302,4,16/08/2020 18:10,Target Field,Minnesota Twins,Kansas City Royals,4 - 2
+303,4,16/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,St. Louis Cardinals,7 - 2
+304,4,16/08/2020 18:20,Wrigley Field,Chicago Cubs,Milwaukee Brewers,5 - 6
+305,4,16/08/2020 19:10,Coors Field,Colorado Rockies,Texas Rangers,10 - 6
+306,4,16/08/2020 20:05,Oracle Park,San Francisco Giants,Oakland Athletics,3 - 15
+307,4,16/08/2020 20:10,Angel Stadium,Los Angeles Angels,Los Angeles Dodgers,3 - 8
+308,4,16/08/2020 20:10,Chase Field,Arizona Diamondbacks,San Diego Padres,5 - 4
+309,4,16/08/2020 23:08,Yankee Stadium,New York Yankees,Boston Red Sox,4 - 2
+310,4,17/08/2020 07:33,Wrigley Field,St. Louis Cardinals,Chicago Cubs,4 - 5
+311,4,17/08/2020 21:15,Wrigley Field,Chicago Cubs,St. Louis Cardinals,1 - 3
+312,4,17/08/2020 23:05,Yankee Stadium,New York Yankees,Boston Red Sox,6 - 3
+313,4,17/08/2020 23:10,Truist Park,Atlanta Braves,Washington Nationals,7 - 6
+314,4,17/08/2020 23:10,Marlins Park,Miami Marlins,New York Mets,4 - 11
+315,4,17/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,2 - 7
+316,4,18/08/2020 00:10,Target Field,Minnesota Twins,Kansas City Royals,4 - 1
+317,4,18/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,7 - 2
+318,4,18/08/2020 01:05,Globe Life Field,Texas Rangers,San Diego Padres,4 - 14
+319,4,18/08/2020 01:10,Minute Maid Park,Houston Astros,Colorado Rockies,2 - 1
+320,4,18/08/2020 01:40,Chase Field,Arizona Diamondbacks,Oakland Athletics,4 - 3
+321,4,18/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Seattle Mariners,11 - 9
+322,4,18/08/2020 01:40,Angel Stadium,Los Angeles Angels,San Francisco Giants,7 - 6
+323,4,18/08/2020 19:10,Minute Maid Park,Houston Astros,Colorado Rockies,2 - 1
+324,4,18/08/2020 20:05,Globe Life Field,Texas Rangers,San Diego Padres,4 - 6
+325,4,18/08/2020 20:10,Angel Stadium,Los Angeles Angels,San Francisco Giants,2 - 8
+326,4,18/08/2020 22:10,Chase Field,Arizona Diamondbacks,Oakland Athletics,10 - 1
+327,4,18/08/2020 23:05,PNC Park,Pittsburgh Pirates,Cleveland Indians,3 - 6
+328,4,18/08/2020 23:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,3 - 6
+329,4,18/08/2020 23:10,Dodger Stadium,Los Angeles Dodgers,Seattle Mariners,2 - 1
+330,4,18/08/2020 23:10,Truist Park,Atlanta Braves,Washington Nationals,5 - 8
+331,4,18/08/2020 23:10,Marlins Park,Miami Marlins,New York Mets,3 - 8
+332,4,18/08/2020 23:30,Fenway Park,Boston Red Sox,Philadelphia Phillies,6 - 13
+333,4,18/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,7 - 8
+334,4,19/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,10 - 4
+335,4,19/08/2020 00:10,Target Field,Minnesota Twins,Milwaukee Brewers,4 - 3
+336,4,19/08/2020 00:15,Wrigley Field,Chicago Cubs,St. Louis Cardinals,6 - 3
+337,4,19/08/2020 03:33,Kauffman Stadium,Kansas City Royals,Cincinnati Reds,0 - 5
+338,4,19/08/2020 07:33,Wrigley Field,St. Louis Cardinals,Chicago Cubs,2 - 4
+339,4,19/08/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,Toronto Blue Jays,2 - 5
+340,4,19/08/2020 17:35,Fenway Park,Boston Red Sox,Philadelphia Phillies,6 - 3
+341,4,19/08/2020 18:20,Wrigley Field,Chicago Cubs,St. Louis Cardinals,3 - 9
+342,4,19/08/2020 21:05,Kauffman Stadium,Kansas City Royals,Cincinnati Reds,4 - 0
+343,4,19/08/2020 23:05,PNC Park,Pittsburgh Pirates,Cleveland Indians,1 - 6
+344,4,19/08/2020 23:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,2 - 4
+345,4,19/08/2020 23:10,Marlins Park,Miami Marlins,New York Mets,3 - 5
+346,4,20/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,5 - 3
+347,4,20/08/2020 00:10,Target Field,Minnesota Twins,Milwaukee Brewers,3 - 9
+348,4,20/08/2020 00:40,Coors Field,Colorado Rockies,Houston Astros,6 - 13
+349,4,20/08/2020 01:10,Petco Park,San Diego Padres,Texas Rangers,6 - 3
+350,4,20/08/2020 01:40,Oakland Coliseum,Oakland Athletics,Arizona Diamondbacks,4 - 1
+351,4,20/08/2020 01:40,T-Mobile Park,Seattle Mariners,Los Angeles Dodgers,6 - 4
+352,4,20/08/2020 01:45,Oracle Park,San Francisco Giants,Los Angeles Angels,7 - 2
+353,4,20/08/2020 03:33,Sahlen Field,Toronto Blue Jays,Philadelphia Phillies,9 - 8
+354,5,20/08/2020 17:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,5 - 10
+355,5,20/08/2020 17:07,Sahlen Field,Toronto Blue Jays,Philadelphia Phillies,3 - 2
+356,5,20/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,9 - 0
+357,5,20/08/2020 19:10,Coors Field,Colorado Rockies,Houston Astros,8 - 10
+358,5,20/08/2020 23:05,PNC Park,Pittsburgh Pirates,Cleveland Indians,0 - 2
+359,5,20/08/2020 23:10,T-Mobile Park,Seattle Mariners,Los Angeles Dodgers,1 - 6
+360,5,20/08/2020 23:10,Target Field,Minnesota Twins,Milwaukee Brewers,7 - 1
+361,5,20/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,1 - 7
+362,5,21/08/2020 00:10,Petco Park,San Diego Padres,Texas Rangers,8 - 7
+363,5,21/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,5 - 4
+364,5,21/08/2020 01:40,Oakland Coliseum,Oakland Athletics,Arizona Diamondbacks,5 - 1
+365,5,21/08/2020 01:45,Oracle Park,San Francisco Giants,Los Angeles Angels,10 - 5
+366,5,21/08/2020 22:05,Nationals Park,Washington Nationals,Miami Marlins,2 - 3
+367,5,21/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,5 - 6
+368,5,21/08/2020 23:05,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,7 - 2
+369,5,21/08/2020 23:10,Progressive Field,Cleveland Indians,Detroit Tigers,5 - 10
+370,5,21/08/2020 23:10,Truist Park,Atlanta Braves,Philadelphia Phillies,11 - 2
+371,5,21/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,5 - 8
+372,5,22/08/2020 00:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,7 - 2
+373,5,22/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,2 - 4
+374,5,22/08/2020 00:15,Wrigley Field,Chicago Cubs,Chicago White Sox,1 - 10
+375,5,22/08/2020 01:10,Petco Park,San Diego Padres,Houston Astros,4 - 3
+376,5,22/08/2020 01:10,T-Mobile Park,Seattle Mariners,Texas Rangers,7 - 4
+377,5,22/08/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,5 - 1
+378,5,22/08/2020 01:40,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,5 - 3
+379,5,22/08/2020 01:45,Oracle Park,San Francisco Giants,Arizona Diamondbacks,6 - 2
+380,5,22/08/2020 07:33,Nationals Park,Miami Marlins,Washington Nationals,5 - 3
+381,5,22/08/2020 20:05,Nationals Park,Washington Nationals,Miami Marlins,5 - 4
+382,5,22/08/2020 20:05,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,12 - 5
+383,5,22/08/2020 20:10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,3 - 4
+384,5,22/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,2 - 1
+385,5,22/08/2020 23:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,2 - 7
+386,5,22/08/2020 23:10,Progressive Field,Cleveland Indians,Detroit Tigers,6 - 1
+387,5,22/08/2020 23:10,Truist Park,Atlanta Braves,Philadelphia Phillies,6 - 5
+388,5,22/08/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,5 - 4
+389,5,23/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,3 - 0
+390,5,23/08/2020 00:15,Wrigley Field,Chicago Cubs,Chicago White Sox,4 - 7
+391,5,23/08/2020 01:10,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,4 - 3
+392,5,23/08/2020 01:10,Petco Park,San Diego Padres,Houston Astros,13 - 2
+393,5,23/08/2020 01:10,T-Mobile Park,Seattle Mariners,Texas Rangers,10 - 1
+394,5,23/08/2020 01:15,Oracle Park,San Francisco Giants,Arizona Diamondbacks,5 - 1
+395,5,23/08/2020 16:35,Nationals Park,Washington Nationals,Miami Marlins,9 - 3
+396,5,23/08/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,Boston Red Sox,5 - 4
+397,5,23/08/2020 17:10,Progressive Field,Cleveland Indians,Detroit Tigers,4 - 7
+398,5,23/08/2020 17:10,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,5 - 4
+399,5,23/08/2020 17:35,PNC Park,Pittsburgh Pirates,Milwaukee Brewers,5 - 4
+400,5,23/08/2020 18:05,Kauffman Stadium,Kansas City Royals,Minnesota Twins,4 - 5
+401,5,23/08/2020 18:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,6 - 2
+402,5,23/08/2020 18:20,Wrigley Field,Chicago Cubs,Chicago White Sox,2 - 1
+403,5,23/08/2020 20:10,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,11 - 3
+404,5,23/08/2020 20:10,Oakland Coliseum,Oakland Athletics,Los Angeles Angels,5 - 4
+405,5,23/08/2020 20:10,Petco Park,San Diego Padres,Houston Astros,5 - 3
+406,5,23/08/2020 20:10,Oracle Park,San Francisco Giants,Arizona Diamondbacks,6 - 1
+407,5,23/08/2020 20:10,T-Mobile Park,Seattle Mariners,Texas Rangers,4 - 1
+408,5,23/08/2020 23:08,Truist Park,Atlanta Braves,Philadelphia Phillies,4 - 5
+409,5,24/08/2020 19:10,Tropicana Field,Tampa Bay Rays,Toronto Blue Jays,4 - 6
+410,5,24/08/2020 22:05,Nationals Park,Washington Nationals,Miami Marlins,8 - 11
+411,5,24/08/2020 23:10,Comerica Park,Detroit Tigers,Chicago Cubs,3 - 9
+412,5,24/08/2020 23:10,Progressive Field,Cleveland Indians,Minnesota Twins,2 - 3
+413,5,25/08/2020 00:05,Globe Life Field,Texas Rangers,Oakland Athletics,3 - 2
+414,5,25/08/2020 00:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,4 - 2
+415,5,25/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Kansas City Royals,9 - 3
+416,5,25/08/2020 01:10,Minute Maid Park,Houston Astros,Los Angeles Angels,11 - 4
+417,5,25/08/2020 01:40,Chase Field,Arizona Diamondbacks,Colorado Rockies,2 - 3
+418,5,25/08/2020 03:33,Minute Maid Park,Houston Astros,Los Angeles Angels,5 - 12
+419,5,25/08/2020 07:33,Citi Field,Miami Marlins,New York Mets,3 - 0
+420,5,25/08/2020 20:05,Minute Maid Park,Houston Astros,Los Angeles Angels,6 - 3
+421,5,25/08/2020 21:10,Citi Field,New York Mets,Miami Marlins,0 - 4
+422,5,25/08/2020 22:05,Nationals Park,Washington Nationals,Philadelphia Phillies,3 - 8
+423,5,25/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Boston Red Sox,7 - 9
+424,5,25/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,4 - 2
+425,5,25/08/2020 23:10,Comerica Park,Detroit Tigers,Chicago Cubs,7 - 1
+426,5,25/08/2020 23:10,Progressive Field,Cleveland Indians,Minnesota Twins,4 - 2
+427,5,26/08/2020 00:05,Globe Life Field,Texas Rangers,Oakland Athletics,3 - 10
+428,5,26/08/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Pittsburgh Pirates,4 - 0
+429,5,26/08/2020 00:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,3 - 2
+430,5,26/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Kansas City Royals,4 - 5
+431,5,26/08/2020 01:10,Petco Park,San Diego Padres,Seattle Mariners,3 - 8
+432,5,26/08/2020 01:40,Chase Field,Arizona Diamondbacks,Colorado Rockies,4 - 5
+433,5,26/08/2020 01:45,Oracle Park,San Francisco Giants,Los Angeles Dodgers,10 - 8
+434,5,26/08/2020 03:33,Truist Park,Atlanta Braves,New York Yankees,2 - 1
+435,5,26/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Pittsburgh Pirates,10 - 3
+436,5,26/08/2020 20:10,Truist Park,Atlanta Braves,New York Yankees,5 - 1
+437,5,26/08/2020 22:05,Nationals Park,Washington Nationals,Philadelphia Phillies,2 - 3
+438,5,26/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Boston Red Sox,9 - 1
+439,5,26/08/2020 22:40,Tropicana Field,Tampa Bay Rays,Baltimore Orioles,4 - 3
+440,5,26/08/2020 23:10,Comerica Park,Detroit Tigers,Chicago Cubs,7 - 6
+441,5,26/08/2020 23:10,Progressive Field,Cleveland Indians,Minnesota Twins,6 - 3
+442,5,26/08/2020 23:10,Citi Field,New York Mets,Miami Marlins,5 - 4
+443,5,27/08/2020 00:05,Globe Life Field,Texas Rangers,Oakland Athletics,1 - 3
+444,5,27/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Kansas City Royals,6 - 5
+445,5,27/08/2020 01:40,Chase Field,Arizona Diamondbacks,Colorado Rockies,7 - 8
+446,5,27/08/2020 03:33,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,0 - 2
+447,5,27/08/2020 03:33,Miller Park,Milwaukee Brewers,Cincinnati Reds,0 - 6
+448,5,27/08/2020 07:33,Petco Park,San Diego Padres,Seattle Mariners,3 - 8
+449,5,27/08/2020 07:33,Oracle Park,San Francisco Giants,Los Angeles Dodgers,0 - 2
+450,6,27/08/2020 19:10,Petco Park,San Diego Padres,Seattle Mariners,10 - 7
+451,6,27/08/2020 19:15,Busch Stadium,St. Louis Cardinals,Pittsburgh Pirates,3 - 4
+452,6,27/08/2020 20:05,Oracle Park,San Francisco Giants,Los Angeles Dodgers,0 - 7
+453,6,27/08/2020 21:10,Miller Park,Milwaukee Brewers,Cincinnati Reds,1 - 6
+454,6,28/08/2020 07:33,Yankee Stadium,New York Mets,New York Yankees,4 - 3
+455,6,28/08/2020 20:05,Yankee Stadium,New York Yankees,New York Mets,4 - 6
+456,6,28/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,5 - 4
+457,6,28/08/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,7 - 4
+458,6,28/08/2020 23:10,Great American Ball Park,Cincinnati Reds,Chicago Cubs,6 - 5
+459,6,28/08/2020 23:10,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,6 - 5
+460,6,28/08/2020 23:10,Marlins Park,Miami Marlins,Tampa Bay Rays,0 - 2
+461,6,28/08/2020 23:30,Fenway Park,Boston Red Sox,Washington Nationals,2 - 10
+462,6,29/08/2020 00:05,Globe Life Field,Texas Rangers,Los Angeles Dodgers,6 - 2
+463,6,29/08/2020 00:10,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,9 - 1
+464,6,29/08/2020 00:15,Busch Stadium,St. Louis Cardinals,Cleveland Indians,2 - 14
+465,6,29/08/2020 00:40,Coors Field,Colorado Rockies,San Diego Padres,4 - 10
+466,6,29/08/2020 01:40,Angel Stadium,Los Angeles Angels,Seattle Mariners,3 - 2
+467,6,29/08/2020 01:40,Chase Field,Arizona Diamondbacks,San Francisco Giants,7 - 4
+468,6,29/08/2020 03:33,Comerica Park,Detroit Tigers,Minnesota Twins,4 - 2
+469,6,29/08/2020 03:33,Great American Ball Park,Cincinnati Reds,Chicago Cubs,6 - 5
+470,6,29/08/2020 07:33,Minute Maid Park,Houston Astros,Oakland Athletics,6 - 3
+471,6,29/08/2020 17:05,Yankee Stadium,New York Yankees,New York Mets,2 - 1
+472,6,29/08/2020 17:10,Comerica Park,Detroit Tigers,Minnesota Twins,8 - 2
+473,6,29/08/2020 17:15,Busch Stadium,St. Louis Cardinals,Cleveland Indians,1 - 2
+474,6,29/08/2020 17:15,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,4 - 1
+475,6,29/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,6 - 9
+476,6,29/08/2020 20:10,Great American Ball Park,Cincinnati Reds,Chicago Cubs,0 - 3
+477,6,29/08/2020 20:10,Minute Maid Park,Houston Astros,Oakland Athletics,4 - 2
+478,6,29/08/2020 22:10,Marlins Park,Miami Marlins,Tampa Bay Rays,0 - 4
+479,6,29/08/2020 22:37,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,5 - 0
+480,6,29/08/2020 23:05,Globe Life Field,Texas Rangers,Los Angeles Dodgers,4 - 7
+481,6,29/08/2020 23:10,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,7 - 6
+482,6,29/08/2020 23:30,Fenway Park,Boston Red Sox,Washington Nationals,5 - 3
+483,6,30/08/2020 00:10,Coors Field,Colorado Rockies,San Diego Padres,4 - 3
+484,6,30/08/2020 00:10,Chase Field,Arizona Diamondbacks,San Francisco Giants,2 - 5
+485,6,30/08/2020 01:40,Angel Stadium,Los Angeles Angels,Seattle Mariners,16 - 3
+486,6,30/08/2020 07:33,Yankee Stadium,New York Mets,New York Yankees,2 - 5
+487,6,30/08/2020 17:05,Yankee Stadium,New York Yankees,New York Mets,8 - 7
+488,6,30/08/2020 17:10,Great American Ball Park,Cincinnati Reds,Chicago Cubs,1 - 10
+489,6,30/08/2020 17:10,Comerica Park,Detroit Tigers,Minnesota Twins,3 - 2
+490,6,30/08/2020 17:10,Marlins Park,Miami Marlins,Tampa Bay Rays,7 - 12
+491,6,30/08/2020 17:35,Fenway Park,Boston Red Sox,Washington Nationals,9 - 5
+492,6,30/08/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Kansas City Royals,5 - 2
+493,6,30/08/2020 18:10,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,1 - 5
+494,6,30/08/2020 18:15,Busch Stadium,St. Louis Cardinals,Cleveland Indians,7 - 2
+495,6,30/08/2020 18:35,Globe Life Field,Texas Rangers,Los Angeles Dodgers,2 - 7
+496,6,30/08/2020 19:07,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,6 - 5
+497,6,30/08/2020 19:10,Coors Field,Colorado Rockies,San Diego Padres,2 - 13
+498,6,30/08/2020 20:10,Angel Stadium,Los Angeles Angels,Seattle Mariners,1 - 2
+499,6,30/08/2020 20:10,Chase Field,Arizona Diamondbacks,San Francisco Giants,1 - 4
+500,6,30/08/2020 23:08,Citizens Bank Park,Philadelphia Phillies,Atlanta Braves,10 - 12
+501,6,31/08/2020 17:10,Citi Field,New York Mets,Miami Marlins,3 - 5
+502,6,31/08/2020 18:07,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,3 - 4
+503,6,31/08/2020 20:10,Angel Stadium,Los Angeles Angels,Seattle Mariners,1 - 2
+504,6,31/08/2020 22:40,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,5 - 7
+505,6,31/08/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,8 - 6
+506,6,31/08/2020 23:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,3 - 5
+507,6,31/08/2020 23:30,Fenway Park,Boston Red Sox,Atlanta Braves,3 - 6
+508,6,31/08/2020 23:40,Miller Park,Milwaukee Brewers,Pittsburgh Pirates,6 - 5
+509,6,01/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Cleveland Indians,2 - 1
+510,6,01/09/2020 00:10,Target Field,Minnesota Twins,Chicago White Sox,5 - 8
+511,6,01/09/2020 01:40,Coors Field,Colorado Rockies,San Diego Padres,0 - 6
+512,6,01/09/2020 22:40,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,2 - 16
+513,6,01/09/2020 22:40,Marlins Park,Miami Marlins,Toronto Blue Jays,3 - 2
+514,6,01/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago Cubs,7 - 8
+515,6,01/09/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,6 - 0
+516,6,01/09/2020 23:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,5 - 3
+517,6,01/09/2020 23:30,Fenway Park,Boston Red Sox,Atlanta Braves,3 - 10
+518,6,01/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,New York Mets,9 - 5
+519,6,01/09/2020 23:40,Miller Park,Milwaukee Brewers,Detroit Tigers,1 - 12
+520,6,02/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Cleveland Indians,1 - 10
+521,6,02/09/2020 00:10,Minute Maid Park,Houston Astros,Texas Rangers,5 - 6
+522,6,02/09/2020 00:10,Target Field,Minnesota Twins,Chicago White Sox,3 - 2
+523,6,02/09/2020 00:40,Coors Field,Colorado Rockies,San Francisco Giants,5 - 23
+524,6,02/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,6 - 3
+525,6,02/09/2020 19:10,Coors Field,Colorado Rockies,San Francisco Giants,9 - 6
+526,6,02/09/2020 20:05,Oriole Park at Camden Yards,Baltimore Orioles,New York Mets,4 - 9
+527,6,02/09/2020 22:40,Great American Ball Park,Cincinnati Reds,St. Louis Cardinals,4 - 3
+528,6,02/09/2020 22:40,Marlins Park,Miami Marlins,Toronto Blue Jays,1 - 2
+529,6,02/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago Cubs,2 - 8
+530,6,02/09/2020 23:05,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,3 - 0
+531,6,02/09/2020 23:05,Yankee Stadium,New York Yankees,Tampa Bay Rays,2 - 5
+532,6,02/09/2020 23:30,Fenway Park,Boston Red Sox,Atlanta Braves,5 - 7
+533,6,02/09/2020 23:40,Miller Park,Milwaukee Brewers,Detroit Tigers,8 - 5
+534,6,03/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Cleveland Indians,0 - 5
+535,6,03/09/2020 00:10,Minute Maid Park,Houston Astros,Texas Rangers,2 - 1
+536,6,03/09/2020 00:10,Target Field,Minnesota Twins,Chicago White Sox,8 - 1
+537,6,03/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,3 - 2
+538,6,03/09/2020 01:40,Angel Stadium,Los Angeles Angels,San Diego Padres,4 - 11
+539,7,03/09/2020 17:35,PNC Park,Pittsburgh Pirates,Chicago Cubs,6 - 2
+540,7,03/09/2020 18:10,Minute Maid Park,Houston Astros,Texas Rangers,8 - 4
+541,7,03/09/2020 20:05,Citizens Bank Park,Philadelphia Phillies,Washington Nationals,6 - 5
+542,7,03/09/2020 20:10,Citi Field,New York Mets,New York Yankees,9 - 7
+543,7,03/09/2020 23:10,Angel Stadium,Los Angeles Angels,San Diego Padres,2 - 0
+544,7,03/09/2020 23:30,Fenway Park,Boston Red Sox,Toronto Blue Jays,2 - 6
+545,7,04/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,6 - 11
+546,7,04/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Arizona Diamondbacks,5 - 1
+547,7,04/09/2020 03:33,Truist Park,Atlanta Braves,Washington Nationals,9 - 10
+548,7,04/09/2020 03:33,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,6 - 3
+549,7,04/09/2020 07:33,Target Field,Detroit Tigers,Minnesota Twins,2 - 3
+550,7,04/09/2020 07:33,PNC Park,Cincinnati Reds,Pittsburgh Pirates,3 - 4
+551,7,04/09/2020 07:33,Fenway Park,Toronto Blue Jays,Boston Red Sox,2 - 3
+552,7,04/09/2020 18:10,Target Field,Minnesota Twins,Detroit Tigers,2 - 0
+553,7,04/09/2020 20:05,PNC Park,Pittsburgh Pirates,Cincinnati Reds,2 - 4
+554,7,04/09/2020 20:10,Fenway Park,Boston Red Sox,Toronto Blue Jays,7 - 8
+555,7,04/09/2020 20:10,Truist Park,Atlanta Braves,Washington Nationals,7 - 1
+556,7,04/09/2020 21:05,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,5 - 6
+557,7,04/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Miami Marlins,5 - 4
+558,7,04/09/2020 23:10,Citi Field,New York Mets,Philadelphia Phillies,3 - 5
+559,7,04/09/2020 23:10,Progressive Field,Cleveland Indians,Milwaukee Brewers,1 - 7
+560,7,05/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,4 - 7
+561,7,05/09/2020 00:15,Wrigley Field,Chicago Cubs,St. Louis Cardinals,4 - 1
+562,7,05/09/2020 01:10,Angel Stadium,Los Angeles Angels,Houston Astros,6 - 5
+563,7,05/09/2020 01:10,T-Mobile Park,Seattle Mariners,Texas Rangers,6 - 3
+564,7,05/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,10 - 6
+565,7,05/09/2020 01:40,Oakland Coliseum,Oakland Athletics,San Diego Padres,0 - 7
+566,7,05/09/2020 01:45,Oracle Park,San Francisco Giants,Arizona Diamondbacks,5 - 6
+567,7,05/09/2020 07:33,Wrigley Field,St. Louis Cardinals,Chicago Cubs,5 - 1
+568,7,05/09/2020 07:33,Angel Stadium,Houston Astros,Los Angeles Angels,6 - 7
+569,7,05/09/2020 20:07,Oakland Coliseum,Oakland Athletics,San Diego Padres,8 - 4
+570,7,05/09/2020 21:15,Wrigley Field,Chicago Cubs,St. Louis Cardinals,2 - 4
+571,7,05/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Miami Marlins,3 - 7
+572,7,05/09/2020 23:05,PNC Park,Pittsburgh Pirates,Cincinnati Reds,2 - 6
+573,7,05/09/2020 23:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,3 - 5
+574,7,05/09/2020 23:07,Angel Stadium,Los Angeles Angels,Houston Astros,10 - 9
+575,7,05/09/2020 23:10,Target Field,Minnesota Twins,Detroit Tigers,4 - 3
+576,7,05/09/2020 23:10,Citi Field,New York Mets,Philadelphia Phillies,5 - 1
+577,7,05/09/2020 23:10,Truist Park,Atlanta Braves,Washington Nationals,4 - 10
+578,7,05/09/2020 23:10,Progressive Field,Cleveland Indians,Milwaukee Brewers,4 - 3
+579,7,05/09/2020 23:30,Fenway Park,Boston Red Sox,Toronto Blue Jays,9 - 8
+580,7,05/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,6 - 1
+581,7,06/09/2020 01:10,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,2 - 5
+582,7,06/09/2020 01:10,T-Mobile Park,Seattle Mariners,Texas Rangers,5 - 3
+583,7,06/09/2020 01:15,Oracle Park,San Francisco Giants,Arizona Diamondbacks,4 - 3
+584,7,06/09/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,New York Yankees,5 - 1
+585,7,06/09/2020 17:10,Citi Field,New York Mets,Philadelphia Phillies,14 - 1
+586,7,06/09/2020 17:10,Truist Park,Atlanta Braves,Washington Nationals,10 - 3
+587,7,06/09/2020 17:10,Tropicana Field,Tampa Bay Rays,Miami Marlins,5 - 4
+588,7,06/09/2020 17:10,Progressive Field,Cleveland Indians,Milwaukee Brewers,4 - 1
+589,7,06/09/2020 17:35,PNC Park,Pittsburgh Pirates,Cincinnati Reds,3 - 2
+590,7,06/09/2020 17:35,Fenway Park,Boston Red Sox,Toronto Blue Jays,8 - 10
+591,7,06/09/2020 18:05,Kauffman Stadium,Kansas City Royals,Chicago White Sox,2 - 8
+592,7,06/09/2020 18:10,Target Field,Minnesota Twins,Detroit Tigers,8 - 10
+593,7,06/09/2020 20:05,Oracle Park,San Francisco Giants,Arizona Diamondbacks,4 - 2
+594,7,06/09/2020 20:10,Angel Stadium,Los Angeles Angels,Houston Astros,9 - 5
+595,7,06/09/2020 20:10,Oakland Coliseum,Oakland Athletics,San Diego Padres,3 - 5
+596,7,06/09/2020 20:10,T-Mobile Park,Seattle Mariners,Texas Rangers,4 - 3
+597,7,06/09/2020 23:08,Wrigley Field,Chicago Cubs,St. Louis Cardinals,3 - 7
+598,7,07/09/2020 02:10,Dodger Stadium,Los Angeles Dodgers,Colorado Rockies,6 - 7
+599,7,07/09/2020 17:10,Citi Field,New York Mets,Philadelphia Phillies,8 - 9
+600,7,07/09/2020 17:10,Truist Park,Atlanta Braves,Miami Marlins,4 - 5
+601,7,07/09/2020 18:10,Target Field,Minnesota Twins,Detroit Tigers,6 - 2
+602,7,07/09/2020 20:10,Wrigley Field,Chicago Cubs,St. Louis Cardinals,5 - 1
+603,7,07/09/2020 20:10,T-Mobile Park,Seattle Mariners,Texas Rangers,8 - 4
+604,7,07/09/2020 22:05,Nationals Park,Washington Nationals,Tampa Bay Rays,6 - 1
+605,7,07/09/2020 22:10,Progressive Field,Cleveland Indians,Kansas City Royals,5 - 2
+606,7,07/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,12 - 7
+607,7,08/09/2020 00:05,Oracle Park,San Francisco Giants,Arizona Diamondbacks,4 - 2
+608,7,08/09/2020 01:10,Oakland Coliseum,Oakland Athletics,Houston Astros,6 - 0
+609,7,08/09/2020 01:10,Petco Park,San Diego Padres,Colorado Rockies,1 - 0
+610,7,08/09/2020 03:33,Busch Stadium,St. Louis Cardinals,Minnesota Twins,6 - 4
+611,7,08/09/2020 03:33,Citizens Bank Park,Philadelphia Phillies,Boston Red Sox,2 - 5
+612,7,08/09/2020 03:33,Oakland Coliseum,Oakland Athletics,Houston Astros,4 - 5
+613,7,08/09/2020 19:15,Busch Stadium,St. Louis Cardinals,Minnesota Twins,3 - 7
+614,7,08/09/2020 20:05,Citizens Bank Park,Philadelphia Phillies,Boston Red Sox,6 - 5
+615,7,08/09/2020 22:05,Nationals Park,Washington Nationals,Tampa Bay Rays,5 - 3
+616,7,08/09/2020 22:10,Progressive Field,Cleveland Indians,Kansas City Royals,6 - 8
+617,7,08/09/2020 22:10,Oakland Coliseum,Houston Astros,Oakland Athletics,2 - 4
+618,7,08/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,2 - 1
+619,7,08/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago White Sox,5 - 4
+620,7,08/09/2020 23:10,Citi Field,New York Mets,Baltimore Orioles,2 - 11
+621,7,08/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,0 - 8
+622,7,08/09/2020 23:10,Comerica Park,Detroit Tigers,Milwaukee Brewers,8 - 3
+623,7,09/09/2020 00:05,Globe Life Field,Texas Rangers,Los Angeles Angels,7 - 1
+624,7,09/09/2020 00:15,Wrigley Field,Chicago Cubs,Cincinnati Reds,3 - 0
+625,7,09/09/2020 01:10,Petco Park,San Diego Padres,Colorado Rockies,14 - 5
+626,7,09/09/2020 01:40,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,9 - 10
+627,7,09/09/2020 01:45,Oracle Park,San Francisco Giants,Seattle Mariners,6 - 5
+628,7,09/09/2020 17:10,Comerica Park,Detroit Tigers,Milwaukee Brewers,0 - 19
+629,7,09/09/2020 22:10,Progressive Field,Cleveland Indians,Kansas City Royals,0 - 3
+630,7,09/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,2 - 7
+631,7,09/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago White Sox,1 - 8
+632,7,09/09/2020 23:10,Citi Field,New York Mets,Baltimore Orioles,7 - 6
+633,7,09/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,29 - 9
+634,7,10/09/2020 00:05,Globe Life Field,Texas Rangers,Los Angeles Angels,7 - 3
+635,7,10/09/2020 00:10,Petco Park,San Diego Padres,Colorado Rockies,5 - 3
+636,7,10/09/2020 00:15,Wrigley Field,Chicago Cubs,Cincinnati Reds,0 - 3
+637,7,10/09/2020 01:10,Oakland Coliseum,Oakland Athletics,Houston Astros,3 - 2
+638,7,10/09/2020 01:40,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,4 - 6
+639,7,10/09/2020 01:45,Oracle Park,San Francisco Giants,Seattle Mariners,10 - 1
+640,7,10/09/2020 03:33,Busch Stadium,St. Louis Cardinals,Detroit Tigers,3 - 6
+641,8,10/09/2020 18:15,Busch Stadium,St. Louis Cardinals,Detroit Tigers,12 - 2
+642,8,10/09/2020 19:40,Oakland Coliseum,Oakland Athletics,Houston Astros,3 - 1
+643,8,10/09/2020 20:05,Globe Life Field,Texas Rangers,Los Angeles Angels,2 - 6
+644,8,10/09/2020 22:05,Nationals Park,Washington Nationals,Atlanta Braves,6 - 7
+645,8,10/09/2020 22:10,Progressive Field,Cleveland Indians,Kansas City Royals,1 - 11
+646,8,10/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Boston Red Sox,3 - 4
+647,8,10/09/2020 22:40,Marlins Park,Miami Marlins,Philadelphia Phillies,7 - 6
+648,8,11/09/2020 00:15,Wrigley Field,Chicago Cubs,Cincinnati Reds,8 - 5
+649,8,11/09/2020 01:10,Petco Park,San Diego Padres,San Francisco Giants,6 - 1
+650,8,11/09/2020 01:40,Chase Field,Arizona Diamondbacks,Los Angeles Dodgers,5 - 2
+651,8,11/09/2020 03:33,Yankee Stadium,New York Yankees,Baltimore Orioles,10 - 1
+652,8,11/09/2020 03:33,Marlins Park,Miami Marlins,Philadelphia Phillies,5 - 3
+653,8,11/09/2020 20:05,Yankee Stadium,New York Yankees,Baltimore Orioles,6 - 0
+654,8,11/09/2020 21:10,Marlins Park,Miami Marlins,Philadelphia Phillies,0 - 11
+655,8,11/09/2020 22:05,Nationals Park,Washington Nationals,Atlanta Braves,8 - 7
+656,8,11/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Mets,1 - 18
+657,8,11/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Boston Red Sox,11 - 1
+658,8,12/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,4 - 3
+659,8,12/09/2020 00:05,Globe Life Field,Texas Rangers,Oakland Athletics,6 - 10
+660,8,12/09/2020 00:10,Target Field,Minnesota Twins,Cleveland Indians,3 - 1
+661,8,12/09/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,4 - 3
+662,8,12/09/2020 00:10,Miller Park,Milwaukee Brewers,Chicago Cubs,1 - 0
+663,8,12/09/2020 00:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,1 - 3
+664,8,12/09/2020 00:40,Coors Field,Colorado Rockies,Los Angeles Angels,8 - 4
+665,8,12/09/2020 01:40,Chase Field,Arizona Diamondbacks,Seattle Mariners,4 - 3
+666,8,12/09/2020 03:33,Globe Life Field,Texas Rangers,Oakland Athletics,1 - 10
+667,8,12/09/2020 17:05,Yankee Stadium,New York Yankees,Baltimore Orioles,2 - 1
+668,8,12/09/2020 21:05,Globe Life Field,Texas Rangers,Oakland Athletics,5 - 2
+669,8,12/09/2020 22:05,Nationals Park,Washington Nationals,Atlanta Braves,1 - 2
+670,8,12/09/2020 22:10,Marlins Park,Miami Marlins,Philadelphia Phillies,6 - 12
+671,8,12/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Mets,3 - 2
+672,8,12/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Boston Red Sox,5 - 4
+673,8,12/09/2020 23:05,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,7 - 4
+674,8,12/09/2020 23:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,14 - 0
+675,8,12/09/2020 23:10,Miller Park,Milwaukee Brewers,Chicago Cubs,2 - 4
+676,8,13/09/2020 00:07,Dodger Stadium,Los Angeles Dodgers,Houston Astros,5 - 7
+677,8,13/09/2020 00:07,Target Field,Minnesota Twins,Cleveland Indians,8 - 4
+678,8,13/09/2020 00:10,Coors Field,Colorado Rockies,Los Angeles Angels,2 - 5
+679,8,13/09/2020 00:10,Chase Field,Arizona Diamondbacks,Seattle Mariners,3 - 7
+680,8,13/09/2020 00:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,7 - 1
+681,8,13/09/2020 03:33,Marlins Park,Miami Marlins,Philadelphia Phillies,8 - 1
+682,8,13/09/2020 03:33,Petco Park,San Diego Padres,San Francisco Giants,3 - 1
+683,8,13/09/2020 16:35,Nationals Park,Washington Nationals,Atlanta Braves,4 - 8
+684,8,13/09/2020 17:05,Yankee Stadium,New York Yankees,Baltimore Orioles,3 - 1
+685,8,13/09/2020 17:10,Tropicana Field,Tampa Bay Rays,Boston Red Sox,3 - 6
+686,8,13/09/2020 17:10,Marlins Park,Miami Marlins,Philadelphia Phillies,2 - 1
+687,8,13/09/2020 18:05,Kauffman Stadium,Kansas City Royals,Pittsburgh Pirates,11 - 0
+688,8,13/09/2020 18:10,Target Field,Minnesota Twins,Cleveland Indians,7 - 5
+689,8,13/09/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Detroit Tigers,5 - 2
+690,8,13/09/2020 18:10,Miller Park,Milwaukee Brewers,Chicago Cubs,0 - 12
+691,8,13/09/2020 18:15,Busch Stadium,St. Louis Cardinals,Cincinnati Reds,5 - 10
+692,8,13/09/2020 18:35,Globe Life Field,Texas Rangers,Oakland Athletics,6 - 3
+693,8,13/09/2020 19:07,Sahlen Field,Toronto Blue Jays,New York Mets,7 - 3
+694,8,13/09/2020 19:10,Coors Field,Colorado Rockies,Los Angeles Angels,3 - 5
+695,8,13/09/2020 20:10,Chase Field,Arizona Diamondbacks,Seattle Mariners,3 - 7
+696,8,13/09/2020 20:10,Petco Park,San Diego Padres,San Francisco Giants,6 - 0
+697,8,14/09/2020 00:08,Dodger Stadium,Los Angeles Dodgers,Houston Astros,8 - 1
+698,8,14/09/2020 03:33,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,9 - 4
+699,8,14/09/2020 03:33,Miller Park,Milwaukee Brewers,St. Louis Cardinals,2 - 3
+700,8,14/09/2020 07:33,T-Mobile Park,Seattle Mariners,Oakland Athletics,0 - 9
+701,8,14/09/2020 20:10,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,3 - 1
+702,8,14/09/2020 20:10,Marlins Park,Miami Marlins,Philadelphia Phillies,6 - 2
+703,8,14/09/2020 21:10,T-Mobile Park,Seattle Mariners,Oakland Athletics,6 - 5
+704,8,14/09/2020 21:10,Miller Park,Milwaukee Brewers,St. Louis Cardinals,2 - 1
+705,8,14/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,14 - 1
+706,8,15/09/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,3 - 1
+707,8,15/09/2020 01:10,Petco Park,San Diego Padres,Los Angeles Dodgers,7 - 2
+708,8,15/09/2020 22:40,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,4 - 1
+709,8,15/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Washington Nationals,6 - 1
+710,8,15/09/2020 22:40,Marlins Park,Miami Marlins,Boston Red Sox,0 - 2
+711,8,15/09/2020 23:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,4 - 1
+712,8,15/09/2020 23:05,Yankee Stadium,New York Yankees,Toronto Blue Jays,20 - 6
+713,8,15/09/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,6 - 0
+714,8,15/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,1 - 5
+715,8,15/09/2020 23:40,Miller Park,Milwaukee Brewers,St. Louis Cardinals,18 - 3
+716,8,16/09/2020 00:10,Minute Maid Park,Houston Astros,Texas Rangers,4 - 1
+717,8,16/09/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,6 - 2
+718,8,16/09/2020 00:15,Wrigley Field,Chicago Cubs,Cleveland Indians,6 - 5
+719,8,16/09/2020 00:40,Coors Field,Colorado Rockies,Oakland Athletics,3 - 1
+720,8,16/09/2020 01:10,Petco Park,San Diego Padres,Los Angeles Dodgers,1 - 3
+721,8,16/09/2020 01:40,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,8 - 9
+722,8,16/09/2020 03:33,Miller Park,Milwaukee Brewers,St. Louis Cardinals,6 - 0
+723,8,16/09/2020 17:10,Tropicana Field,Tampa Bay Rays,Washington Nationals,2 - 4
+724,8,16/09/2020 19:10,Coors Field,Colorado Rockies,Oakland Athletics,1 - 3
+725,8,16/09/2020 20:10,Petco Park,San Diego Padres,Los Angeles Dodgers,5 - 7
+726,8,16/09/2020 21:10,Miller Park,Milwaukee Brewers,St. Louis Cardinals,2 - 4
+727,8,16/09/2020 22:40,Great American Ball Park,Cincinnati Reds,Pittsburgh Pirates,1 - 0
+728,8,16/09/2020 22:40,Marlins Park,Miami Marlins,Boston Red Sox,8 - 4
+729,8,16/09/2020 23:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,4 - 5
+730,8,16/09/2020 23:05,Yankee Stadium,New York Yankees,Toronto Blue Jays,13 - 2
+731,8,16/09/2020 23:10,Comerica Park,Detroit Tigers,Kansas City Royals,0 - 4
+732,8,16/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Atlanta Braves,5 - 1
+733,8,17/09/2020 00:10,Minute Maid Park,Houston Astros,Texas Rangers,0 - 1
+734,8,17/09/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,1 - 5
+735,8,17/09/2020 00:15,Wrigley Field,Chicago Cubs,Cleveland Indians,3 - 2
+736,8,17/09/2020 01:40,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,6 - 9
+737,8,17/09/2020 01:45,Oracle Park,Seattle Mariners,San Francisco Giants,3 - 9
+738,8,17/09/2020 07:33,Oriole Park at Camden Yards,Tampa Bay Rays,Baltimore Orioles,10 - 6
+739,9,17/09/2020 17:10,Marlins Park,Miami Marlins,Boston Red Sox,3 - 5
+740,9,17/09/2020 18:10,Guaranteed Rate Field,Chicago White Sox,Minnesota Twins,4 - 3
+741,9,17/09/2020 20:10,Angel Stadium,Los Angeles Angels,Arizona Diamondbacks,7 - 3
+742,9,17/09/2020 20:10,Oracle Park,Seattle Mariners,San Francisco Giants,4 - 6
+743,9,17/09/2020 20:35,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,1 - 3
+744,9,17/09/2020 23:05,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,5 - 1
+745,9,17/09/2020 23:05,Citizens Bank Park,Philadelphia Phillies,New York Mets,6 - 10
+746,9,17/09/2020 23:05,Yankee Stadium,New York Yankees,Toronto Blue Jays,10 - 7
+747,9,17/09/2020 23:10,Comerica Park,Detroit Tigers,Cleveland Indians,3 - 10
+748,9,17/09/2020 23:10,Minute Maid Park,Houston Astros,Texas Rangers,2 - 1
+749,9,18/09/2020 00:40,Coors Field,Colorado Rockies,Los Angeles Dodgers,3 - 9
+750,9,18/09/2020 03:33,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,8 - 7
+751,9,18/09/2020 03:33,Marlins Park,Miami Marlins,Washington Nationals,14 - 3
+752,9,18/09/2020 07:33,PNC Park,St. Louis Cardinals,Pittsburgh Pirates,7 - 2
+753,9,18/09/2020 20:05,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,5 - 6
+754,9,18/09/2020 20:05,Citizens Bank Park,Toronto Blue Jays,Philadelphia Phillies,0 - 7
+755,9,18/09/2020 21:10,Marlins Park,Miami Marlins,Washington Nationals,0 - 5
+756,9,18/09/2020 23:10,Comerica Park,Detroit Tigers,Cleveland Indians,0 - 1
+757,9,18/09/2020 23:10,Citi Field,New York Mets,Atlanta Braves,2 - 15
+758,9,18/09/2020 23:10,Great American Ball Park,Cincinnati Reds,Chicago White Sox,7 - 1
+759,9,18/09/2020 23:30,Fenway Park,Boston Red Sox,New York Yankees,5 - 6
+760,9,18/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,1 - 2
+761,9,19/09/2020 00:10,Minute Maid Park,Houston Astros,Arizona Diamondbacks,3 - 6
+762,9,19/09/2020 00:10,Coors Field,Colorado Rockies,Los Angeles Dodgers,6 - 15
+763,9,19/09/2020 00:10,Miller Park,Milwaukee Brewers,Kansas City Royals,9 - 5
+764,9,19/09/2020 00:15,Wrigley Field,Chicago Cubs,Minnesota Twins,1 - 0
+765,9,19/09/2020 01:10,Angel Stadium,Los Angeles Angels,Texas Rangers,6 - 2
+766,9,19/09/2020 01:40,Petco Park,Seattle Mariners,San Diego Padres,1 - 6
+767,9,19/09/2020 01:40,Oakland Coliseum,Oakland Athletics,San Francisco Giants,6 - 0
+768,9,19/09/2020 20:10,Oakland Coliseum,Oakland Athletics,San Francisco Giants,6 - 0
+769,9,19/09/2020 22:05,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,3 - 1
+770,9,19/09/2020 22:10,Comerica Park,Detroit Tigers,Cleveland Indians,5 - 2
+771,9,19/09/2020 22:10,Marlins Park,Miami Marlins,Washington Nationals,7 - 3
+772,9,19/09/2020 23:05,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,4 - 5
+773,9,19/09/2020 23:07,Citi Field,New York Mets,Atlanta Braves,7 - 2
+774,9,19/09/2020 23:07,Great American Ball Park,Cincinnati Reds,Chicago White Sox,0 - 5
+775,9,19/09/2020 23:10,Minute Maid Park,Houston Astros,Arizona Diamondbacks,3 - 2
+776,9,19/09/2020 23:10,Miller Park,Milwaukee Brewers,Kansas City Royals,5 - 0
+777,9,19/09/2020 23:30,Fenway Park,Boston Red Sox,New York Yankees,0 - 8
+778,9,19/09/2020 23:35,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,1 - 3
+779,9,20/09/2020 00:10,Coors Field,Colorado Rockies,Los Angeles Dodgers,1 - 6
+780,9,20/09/2020 00:15,Wrigley Field,Chicago Cubs,Minnesota Twins,1 - 8
+781,9,20/09/2020 01:10,Petco Park,Seattle Mariners,San Diego Padres,4 - 1
+782,9,20/09/2020 01:10,Angel Stadium,Los Angeles Angels,Texas Rangers,4 - 3
+783,9,20/09/2020 03:33,Marlins Park,Miami Marlins,Washington Nationals,0 - 15
+784,9,20/09/2020 17:05,Oriole Park at Camden Yards,Baltimore Orioles,Tampa Bay Rays,2 - 1
+785,9,20/09/2020 17:07,Fenway Park,Boston Red Sox,New York Yankees,10 - 2
+786,9,20/09/2020 17:10,Comerica Park,Detroit Tigers,Cleveland Indians,4 - 7
+787,9,20/09/2020 17:10,Citi Field,New York Mets,Atlanta Braves,0 - 7
+788,9,20/09/2020 17:10,Great American Ball Park,Cincinnati Reds,Chicago White Sox,7 - 3
+789,9,20/09/2020 17:10,Marlins Park,Miami Marlins,Washington Nationals,2 - 1
+790,9,20/09/2020 18:10,Minute Maid Park,Houston Astros,Arizona Diamondbacks,3 - 2
+791,9,20/09/2020 18:10,Miller Park,Milwaukee Brewers,Kansas City Royals,5 - 3
+792,9,20/09/2020 19:05,Citizens Bank Park,Philadelphia Phillies,Toronto Blue Jays,3 - 6
+793,9,20/09/2020 19:10,Coors Field,Colorado Rockies,Los Angeles Dodgers,6 - 3
+794,9,20/09/2020 20:05,PNC Park,Pittsburgh Pirates,St. Louis Cardinals,1 - 2
+795,9,20/09/2020 20:10,Petco Park,Seattle Mariners,San Diego Padres,4 - 7
+796,9,20/09/2020 20:10,Oakland Coliseum,Oakland Athletics,San Francisco Giants,2 - 14
+797,9,20/09/2020 20:10,Angel Stadium,Los Angeles Angels,Texas Rangers,2 - 7
+798,9,20/09/2020 23:08,Wrigley Field,Chicago Cubs,Minnesota Twins,0 - 4
+799,9,21/09/2020 20:10,Angel Stadium,Los Angeles Angels,Texas Rangers,8 - 5
+800,9,21/09/2020 22:05,Nationals Park,Washington Nationals,Philadelphia Phillies,5 - 1
+801,9,21/09/2020 22:10,Progressive Field,Cleveland Indians,Chicago White Sox,7 - 4
+802,9,21/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,11 - 5
+803,9,21/09/2020 22:40,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,6 - 3
+804,9,21/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago Cubs,0 - 5
+805,9,21/09/2020 23:10,Citi Field,New York Mets,Tampa Bay Rays,1 - 2
+806,9,21/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,5 - 4
+807,9,22/09/2020 00:05,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,4 - 1
+808,9,22/09/2020 01:10,T-Mobile Park,Seattle Mariners,Houston Astros,6 - 1
+809,9,22/09/2020 01:45,Oracle Park,San Francisco Giants,Colorado Rockies,2 - 7
+810,9,22/09/2020 03:33,Nationals Park,Washington Nationals,Philadelphia Phillies,8 - 7
+811,9,22/09/2020 19:05,Nationals Park,Washington Nationals,Philadelphia Phillies,5 - 1
+812,9,22/09/2020 22:10,Progressive Field,Cleveland Indians,Chicago White Sox,5 - 3
+813,9,22/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,1 - 12
+814,9,22/09/2020 22:40,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,2 - 3
+815,9,22/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago Cubs,3 - 2
+816,9,22/09/2020 23:10,Citi Field,New York Mets,Tampa Bay Rays,5 - 2
+817,9,22/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,11 - 1
+818,9,22/09/2020 23:30,Fenway Park,Boston Red Sox,Baltimore Orioles,8 - 3
+819,9,22/09/2020 23:40,Target Field,Minnesota Twins,Detroit Tigers,5 - 4
+820,9,23/09/2020 00:05,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,0 - 5
+821,9,23/09/2020 01:10,Petco Park,San Diego Padres,Los Angeles Angels,2 - 4
+822,9,23/09/2020 01:10,T-Mobile Park,Seattle Mariners,Houston Astros,1 - 6
+823,9,23/09/2020 01:10,Chase Field,Arizona Diamondbacks,Texas Rangers,7 - 0
+824,9,23/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,7 - 2
+825,9,23/09/2020 01:45,Oracle Park,San Francisco Giants,Colorado Rockies,5 - 2
+826,9,23/09/2020 20:10,Petco Park,San Diego Padres,Los Angeles Angels,2 - 5
+827,9,23/09/2020 22:05,Nationals Park,Washington Nationals,Philadelphia Phillies,3 - 12
+828,9,23/09/2020 22:10,Chase Field,Arizona Diamondbacks,Texas Rangers,7 - 3
+829,9,23/09/2020 22:10,Progressive Field,Cleveland Indians,Chicago White Sox,3 - 2
+830,9,23/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,14 - 1
+831,9,23/09/2020 22:40,T-Mobile Park,Seattle Mariners,Houston Astros,3 - 2
+832,9,23/09/2020 22:40,Great American Ball Park,Cincinnati Reds,Milwaukee Brewers,6 - 1
+833,9,23/09/2020 23:05,PNC Park,Pittsburgh Pirates,Chicago Cubs,2 - 1
+834,9,23/09/2020 23:10,Citi Field,New York Mets,Tampa Bay Rays,5 - 8
+835,9,23/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,9 - 4
+836,9,23/09/2020 23:30,Fenway Park,Boston Red Sox,Baltimore Orioles,9 - 1
+837,9,23/09/2020 23:40,Target Field,Minnesota Twins,Detroit Tigers,7 - 6
+838,9,24/09/2020 00:05,Kauffman Stadium,Kansas City Royals,St. Louis Cardinals,12 - 3
+839,9,24/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,4 - 6
+840,9,24/09/2020 01:45,Oracle Park,San Francisco Giants,Colorado Rockies,7 - 2
+841,10,24/09/2020 17:35,PNC Park,Pittsburgh Pirates,Chicago Cubs,7 - 0
+842,10,24/09/2020 19:45,Oracle Park,San Francisco Giants,Colorado Rockies,4 - 5
+843,10,24/09/2020 22:05,Nationals Park,Washington Nationals,New York Mets,2 - 3
+844,10,24/09/2020 22:10,Progressive Field,Cleveland Indians,Chicago White Sox,5 - 4
+845,10,24/09/2020 22:37,Sahlen Field,Toronto Blue Jays,New York Yankees,4 - 1
+846,10,24/09/2020 23:10,Truist Park,Atlanta Braves,Miami Marlins,2 - 4
+847,10,24/09/2020 23:30,Fenway Park,Boston Red Sox,Baltimore Orioles,1 - 13
+848,10,25/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Detroit Tigers,8 - 7
+849,10,25/09/2020 00:05,Globe Life Field,Texas Rangers,Houston Astros,4 - 12
+850,10,25/09/2020 00:15,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,4 - 2
+851,10,25/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Oakland Athletics,5 - 1
+852,10,25/09/2020 03:33,Chase Field,Arizona Diamondbacks,Colorado Rockies,11 - 5
+853,10,25/09/2020 07:33,Busch Stadium,Milwaukee Brewers,St. Louis Cardinals,1 - 9
+854,10,25/09/2020 07:33,Oracle Park,San Diego Padres,San Francisco Giants,6 - 5
+855,10,25/09/2020 21:15,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,0 - 3
+856,10,25/09/2020 22:37,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,10 - 5
+857,10,25/09/2020 22:40,Chase Field,Arizona Diamondbacks,Colorado Rockies,4 - 0
+858,10,25/09/2020 22:40,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,6 - 4
+859,10,25/09/2020 23:05,Yankee Stadium,New York Yankees,Miami Marlins,3 - 4
+860,10,25/09/2020 23:10,Progressive Field,Cleveland Indians,Pittsburgh Pirates,4 - 3
+861,10,25/09/2020 23:10,Oracle Park,San Francisco Giants,San Diego Padres,5 - 4
+862,10,25/09/2020 23:10,Truist Park,Atlanta Braves,Boston Red Sox,8 - 7
+863,10,26/09/2020 00:05,Kauffman Stadium,Kansas City Royals,Detroit Tigers,3 - 2
+864,10,26/09/2020 00:05,Globe Life Field,Texas Rangers,Houston Astros,5 - 4
+865,10,26/09/2020 00:10,Target Field,Minnesota Twins,Cincinnati Reds,2 - 7
+866,10,26/09/2020 00:10,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,0 - 10
+867,10,26/09/2020 01:40,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,9 - 5
+868,10,26/09/2020 01:40,Oakland Coliseum,Oakland Athletics,Seattle Mariners,3 - 1
+869,10,26/09/2020 03:33,Nationals Park,Washington Nationals,New York Mets,5 - 3
+870,10,26/09/2020 07:33,Oakland Coliseum,Seattle Mariners,Oakland Athletics,12 - 3
+871,10,26/09/2020 17:05,Yankee Stadium,New York Yankees,Miami Marlins,11 - 4
+872,10,26/09/2020 19:05,Nationals Park,Washington Nationals,New York Mets,4 - 3
+873,10,26/09/2020 20:10,Oakland Coliseum,Oakland Athletics,Seattle Mariners,1 - 5
+874,10,26/09/2020 22:37,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,5 - 2
+875,10,26/09/2020 23:05,Kauffman Stadium,Kansas City Royals,Detroit Tigers,3 - 4
+876,10,26/09/2020 23:05,Globe Life Field,Texas Rangers,Houston Astros,6 - 1
+877,10,26/09/2020 23:07,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,4 - 3
+878,10,26/09/2020 23:07,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,0 - 3
+879,10,26/09/2020 23:10,Progressive Field,Cleveland Indians,Pittsburgh Pirates,0 - 8
+880,10,26/09/2020 23:10,Target Field,Minnesota Twins,Cincinnati Reds,7 - 3
+881,10,26/09/2020 23:10,Truist Park,Atlanta Braves,Boston Red Sox,2 - 8
+882,10,26/09/2020 23:10,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,9 - 5
+883,10,27/09/2020 00:10,Chase Field,Arizona Diamondbacks,Colorado Rockies,3 - 10
+884,10,27/09/2020 01:10,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,7 - 6
+885,10,27/09/2020 01:15,Oracle Park,San Francisco Giants,San Diego Padres,2 - 6
+886,10,27/09/2020 17:05,Kauffman Stadium,Kansas City Royals,Detroit Tigers,3 - 1
+887,10,27/09/2020 19:05,Nationals Park,Washington Nationals,New York Mets,15 - 5
+888,10,27/09/2020 19:05,Oracle Park,San Francisco Giants,San Diego Padres,4 - 5
+889,10,27/09/2020 19:05,Globe Life Field,Texas Rangers,Houston Astros,8 - 4
+890,10,27/09/2020 19:05,Yankee Stadium,New York Yankees,Miami Marlins,0 - 5
+891,10,27/09/2020 19:07,Sahlen Field,Toronto Blue Jays,Baltimore Orioles,5 - 7
+892,10,27/09/2020 19:10,Chase Field,Arizona Diamondbacks,Colorado Rockies,11 - 3
+893,10,27/09/2020 19:10,Dodger Stadium,Los Angeles Dodgers,Los Angeles Angels,5 - 0
+894,10,27/09/2020 19:10,Progressive Field,Cleveland Indians,Pittsburgh Pirates,8 - 6
+895,10,27/09/2020 19:10,Oakland Coliseum,Oakland Athletics,Seattle Mariners,6 - 2
+896,10,27/09/2020 19:10,Target Field,Minnesota Twins,Cincinnati Reds,3 - 5
+897,10,27/09/2020 19:10,Tropicana Field,Tampa Bay Rays,Philadelphia Phillies,5 - 0
+898,10,27/09/2020 19:10,Truist Park,Atlanta Braves,Boston Red Sox,1 - 9
+899,10,27/09/2020 19:10,Guaranteed Rate Field,Chicago White Sox,Chicago Cubs,8 - 10
+900,10,27/09/2020 19:15,Busch Stadium,St. Louis Cardinals,Milwaukee Brewers,5 - 2

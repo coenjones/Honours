@@ -1,0 +1,257 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,07/09/2017 20:30,Gillette Stadium,New England Patriots,Kansas City Chiefs,27 - 42
+2,1,10/09/2017 13:00,New Era Field,Buffalo Bills,New York Jets,21 - 12
+3,1,10/09/2017 13:00,Soldier Field,Chicago Bears,Atlanta Falcons,17 - 23
+4,1,10/09/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Baltimore Ravens,0 - 20
+5,1,10/09/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Pittsburgh Steelers,18 - 21
+6,1,10/09/2017 13:00,Ford Field,Detroit Lions,Arizona Cardinals,35 - 23
+7,1,10/09/2017 13:00,NRG Stadium,Houston Texans,Jacksonville Jaguars,7 - 29
+9,1,10/09/2017 13:00,Nissan Stadium,Tennessee Titans,Oakland Raiders,16 - 26
+10,1,10/09/2017 13:00,FedEx Field,Washington,Philadelphia Eagles,17 - 30
+11,1,10/09/2017 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Indianapolis Colts,46 - 9
+12,1,10/09/2017 16:25,Lambeau Field,Green Bay Packers,Seattle Seahawks,17 - 9
+13,1,10/09/2017 16:25,Levi's Stadium,San Francisco 49ers,Carolina Panthers,3 - 23
+14,1,10/09/2017 20:30,AT&T Stadium,Dallas Cowboys,New York Giants,19 - 3
+15,1,11/09/2017 19:10,U.S. Bank Stadium,Minnesota Vikings,New Orleans Saints,29 - 19
+16,1,11/09/2017 22:20,U.S. Bank Stadium,Denver Broncos,Los Angeles Chargers,24 - 21
+17,2,14/09/2017 20:25,Paul Brown Stadium,Cincinnati Bengals,Houston Texans,9 - 13
+18,2,17/09/2017 13:00,M&T Bank Stadium,Baltimore Ravens,Cleveland Browns,24 - 10
+19,2,17/09/2017 13:00,Bank of America Stadium,Carolina Panthers,Buffalo Bills,9 - 3
+20,2,17/09/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Arizona Cardinals,13 - 16
+21,2,17/09/2017 13:00,EverBank Field,Jacksonville Jaguars,Tennessee Titans,16 - 37
+22,2,17/09/2017 13:00,Arrowhead Stadium,Kansas City Chiefs,Philadelphia Eagles,27 - 20
+23,2,17/09/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,New England Patriots,20 - 36
+24,2,17/09/2017 13:00,Heinz Field,Pittsburgh Steelers,Minnesota Vikings,26 - 9
+25,2,17/09/2017 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Chicago Bears,29 - 7
+26,2,17/09/2017 16:05,StubHub Center,Los Angeles Chargers,Miami Dolphins,17 - 19
+27,2,17/09/2017 16:05,Oakland Coliseum,Oakland Raiders,New York Jets,45 - 20
+28,2,17/09/2017 16:25,Sports Authority Field at Mile High,Denver Broncos,Dallas Cowboys,42 - 17
+29,2,17/09/2017 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,Washington,20 - 27
+30,2,17/09/2017 16:25,CenturyLink Field,Seattle Seahawks,San Francisco 49ers,12 - 9
+31,2,17/09/2017 20:30,Mercedes-Benz Stadium,Atlanta Falcons,Green Bay Packers,34 - 23
+32,2,18/09/2017 20:30,MetLife Stadium,New York Giants,Detroit Lions,10 - 24
+33,3,21/09/2017 20:25,Levi's Stadium,San Francisco 49ers,Los Angeles Rams,39 - 41
+34,3,24/09/2017 09:30,Wembley Stadium,Jacksonville Jaguars,Baltimore Ravens,44 - 7
+35,3,24/09/2017 13:00,New Era Field,Buffalo Bills,Denver Broncos,26 - 16
+36,3,24/09/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,New York Giants,27 - 24
+37,3,24/09/2017 13:00,MetLife Stadium,New York Jets,Miami Dolphins,20 - 6
+38,3,24/09/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Tampa Bay Buccaneers,34 - 17
+39,3,24/09/2017 13:00,Gillette Stadium,New England Patriots,Houston Texans,36 - 33
+40,3,24/09/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Cleveland Browns,31 - 28
+41,3,24/09/2017 13:00,Ford Field,Detroit Lions,Atlanta Falcons,26 - 30
+42,3,24/09/2017 13:00,Bank of America Stadium,Carolina Panthers,New Orleans Saints,13 - 34
+43,3,24/09/2017 13:00,Soldier Field,Chicago Bears,Pittsburgh Steelers,23 - 17
+44,3,24/09/2017 16:05,Nissan Stadium,Tennessee Titans,Seattle Seahawks,33 - 27
+45,3,24/09/2017 16:25,Lambeau Field,Green Bay Packers,Cincinnati Bengals,27 - 24
+46,3,24/09/2017 16:25,StubHub Center,Los Angeles Chargers,Kansas City Chiefs,10 - 24
+47,3,24/09/2017 20:30,FedEx Field,Washington,Oakland Raiders,27 - 10
+48,3,25/09/2017 20:30,U of Phoenix Stadium,Arizona Cardinals,Dallas Cowboys,17 - 28
+49,4,28/09/2017 20:25,Lambeau Field,Green Bay Packers,Chicago Bears,35 - 14
+50,4,01/10/2017 09:30,Wembley Stadium,Miami Dolphins,New Orleans Saints,0 - 20
+51,4,01/10/2017 13:00,Mercedes-Benz Stadium,Atlanta Falcons,Buffalo Bills,17 - 23
+52,4,01/10/2017 13:00,M&T Bank Stadium,Baltimore Ravens,Pittsburgh Steelers,9 - 26
+53,4,01/10/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Cincinnati Bengals,7 - 31
+54,4,01/10/2017 13:00,AT&T Stadium,Dallas Cowboys,Los Angeles Rams,30 - 35
+55,4,01/10/2017 13:00,NRG Stadium,Houston Texans,Tennessee Titans,57 - 14
+56,4,01/10/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Detroit Lions,7 - 14
+57,4,01/10/2017 13:00,Gillette Stadium,New England Patriots,Carolina Panthers,30 - 33
+58,4,01/10/2017 13:00,MetLife Stadium,New York Jets,Jacksonville Jaguars,23 - 20
+59,4,01/10/2017 16:05,U of Phoenix Stadium,Arizona Cardinals,San Francisco 49ers,18 - 15
+60,4,01/10/2017 16:05,StubHub Center,Los Angeles Chargers,Philadelphia Eagles,24 - 26
+61,4,01/10/2017 16:05,Raymond James Stadium,Tampa Bay Buccaneers,New York Giants,25 - 23
+62,4,01/10/2017 16:25,Sports Authority Field at Mile High,Denver Broncos,Oakland Raiders,16 - 10
+63,4,01/10/2017 20:30,CenturyLink Field,Seattle Seahawks,Indianapolis Colts,46 - 18
+64,4,02/10/2017 20:30,Arrowhead Stadium,Kansas City Chiefs,Washington,29 - 20
+65,5,05/10/2017 20:25,Raymond James Stadium,Tampa Bay Buccaneers,New England Patriots,14 - 19
+66,5,08/10/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Buffalo Bills,20 - 16
+67,5,08/10/2017 13:00,FirstEnergy Stadium,Cleveland Browns,New York Jets,14 - 17
+68,5,08/10/2017 13:00,Ford Field,Detroit Lions,Carolina Panthers,24 - 27
+69,5,08/10/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,San Francisco 49ers,26 - 23
+70,5,08/10/2017 13:00,Hard Rock Stadium,Miami Dolphins,Tennessee Titans,16 - 10
+71,5,08/10/2017 13:00,MetLife Stadium,New York Giants,Los Angeles Chargers,22 - 27
+72,5,08/10/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,Arizona Cardinals,34 - 7
+73,5,08/10/2017 13:00,Heinz Field,Pittsburgh Steelers,Jacksonville Jaguars,9 - 30
+74,5,08/10/2017 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Seattle Seahawks,10 - 16
+75,5,08/10/2017 16:05,Oakland Coliseum,Oakland Raiders,Baltimore Ravens,17 - 30
+76,5,08/10/2017 16:25,AT&T Stadium,Dallas Cowboys,Green Bay Packers,31 - 35
+77,5,08/10/2017 20:30,NRG Stadium,Houston Texans,Kansas City Chiefs,34 - 42
+78,5,09/10/2017 20:30,Soldier Field,Chicago Bears,Minnesota Vikings,17 - 20
+79,6,12/10/2017 20:25,Bank of America Stadium,Carolina Panthers,Philadelphia Eagles,23 - 28
+80,6,15/10/2017 13:00,Mercedes-Benz Stadium,Atlanta Falcons,Miami Dolphins,17 - 20
+81,6,15/10/2017 13:00,M&T Bank Stadium,Baltimore Ravens,Chicago Bears,24 - 27
+82,6,15/10/2017 13:00,NRG Stadium,Houston Texans,Cleveland Browns,33 - 17
+83,6,15/10/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Green Bay Packers,23 - 10
+84,6,15/10/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Detroit Lions,52 - 38
+85,6,15/10/2017 13:00,MetLife Stadium,New York Jets,New England Patriots,17 - 24
+86,6,15/10/2017 13:00,FedEx Field,Washington,San Francisco 49ers,26 - 24
+87,6,15/10/2017 16:05,U of Phoenix Stadium,Arizona Cardinals,Tampa Bay Buccaneers,38 - 33
+88,6,15/10/2017 16:05,EverBank Field,Jacksonville Jaguars,Los Angeles Rams,17 - 27
+89,6,15/10/2017 16:25,Arrowhead Stadium,Kansas City Chiefs,Pittsburgh Steelers,13 - 19
+90,6,15/10/2017 16:25,Oakland Coliseum,Oakland Raiders,Los Angeles Chargers,16 - 17
+91,6,15/10/2017 20:30,Sports Authority Field at Mile High,Denver Broncos,New York Giants,10 - 23
+92,6,16/10/2017 20:30,Nissan Stadium,Tennessee Titans,Indianapolis Colts,36 - 22
+93,7,19/10/2017 20:25,Oakland Coliseum,Oakland Raiders,Kansas City Chiefs,31 - 30
+94,7,22/10/2017 13:00,New Era Field,Buffalo Bills,Tampa Bay Buccaneers,30 - 27
+95,7,22/10/2017 13:00,Soldier Field,Chicago Bears,Carolina Panthers,17 - 3
+96,7,22/10/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Tennessee Titans,9 - 12
+97,7,22/10/2017 13:00,Lambeau Field,Green Bay Packers,New Orleans Saints,17 - 26
+98,7,22/10/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Jacksonville Jaguars,0 - 27
+99,7,22/10/2017 13:00,Twickenham Stadium,Los Angeles Rams,Arizona Cardinals,33 - 0
+100,7,22/10/2017 13:00,Hard Rock Stadium,Miami Dolphins,New York Jets,31 - 28
+101,7,22/10/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Baltimore Ravens,24 - 16
+102,7,22/10/2017 13:00,Heinz Field,Pittsburgh Steelers,Cincinnati Bengals,29 - 14
+103,7,22/10/2017 16:05,Levi's Stadium,San Francisco 49ers,Dallas Cowboys,10 - 40
+104,7,22/10/2017 16:25,StubHub Center,Los Angeles Chargers,Denver Broncos,21 - 0
+105,7,22/10/2017 16:25,MetLife Stadium,New York Giants,Seattle Seahawks,7 - 24
+106,7,22/10/2017 20:30,Gillette Stadium,New England Patriots,Atlanta Falcons,23 - 7
+107,7,23/10/2017 20:30,Lincoln Financial Field,Philadelphia Eagles,Washington,34 - 24
+108,8,26/10/2017 20:25,M&T Bank Stadium,Baltimore Ravens,Miami Dolphins,40 - 0
+109,8,29/10/2017 09:30,Twickenham Stadium,Cleveland Browns,Minnesota Vikings,16 - 33
+110,8,29/10/2017 13:00,New Era Field,Buffalo Bills,Oakland Raiders,34 - 14
+111,8,29/10/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Indianapolis Colts,24 - 23
+112,8,29/10/2017 13:00,Gillette Stadium,New England Patriots,Los Angeles Chargers,21 - 13
+113,8,29/10/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Chicago Bears,20 - 12
+114,8,29/10/2017 13:00,MetLife Stadium,New York Jets,Atlanta Falcons,20 - 25
+115,8,29/10/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,San Francisco 49ers,33 - 10
+116,8,29/10/2017 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Carolina Panthers,3 - 17
+117,8,29/10/2017 16:05,CenturyLink Field,Seattle Seahawks,Houston Texans,41 - 38
+118,8,29/10/2017 16:25,FedEx Field,Washington,Dallas Cowboys,19 - 33
+119,8,29/10/2017 20:30,Ford Field,Detroit Lions,Pittsburgh Steelers,15 - 20
+120,8,30/10/2017 20:30,Arrowhead Stadium,Kansas City Chiefs,Denver Broncos,29 - 19
+121,9,02/11/2017 20:25,MetLife Stadium,New York Jets,Buffalo Bills,34 - 21
+122,9,05/11/2017 13:00,Bank of America Stadium,Carolina Panthers,Atlanta Falcons,20 - 17
+123,9,05/11/2017 13:00,NRG Stadium,Houston Texans,Indianapolis Colts,14 - 20
+124,9,05/11/2017 13:00,EverBank Field,Jacksonville Jaguars,Cincinnati Bengals,23 - 7
+125,9,05/11/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Tampa Bay Buccaneers,30 - 10
+126,9,05/11/2017 13:00,MetLife Stadium,New York Giants,Los Angeles Rams,17 - 51
+127,9,05/11/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,Denver Broncos,51 - 23
+128,9,05/11/2017 13:00,Nissan Stadium,Tennessee Titans,Baltimore Ravens,23 - 20
+129,9,05/11/2017 16:05,Levi's Stadium,San Francisco 49ers,Arizona Cardinals,10 - 20
+130,9,05/11/2017 16:05,CenturyLink Field,Seattle Seahawks,Washington,14 - 17
+131,9,05/11/2017 16:25,AT&T Stadium,Dallas Cowboys,Kansas City Chiefs,28 - 17
+132,9,05/11/2017 20:30,Hard Rock Stadium,Miami Dolphins,Oakland Raiders,24 - 27
+133,9,06/11/2017 20:30,Lambeau Field,Green Bay Packers,Detroit Lions,17 - 30
+134,10,09/11/2017 20:25,U of Phoenix Stadium,Arizona Cardinals,Seattle Seahawks,16 - 22
+135,10,12/11/2017 13:00,New Era Field,Buffalo Bills,New Orleans Saints,10 - 47
+136,10,12/11/2017 13:00,Soldier Field,Chicago Bears,Green Bay Packers,16 - 23
+137,10,12/11/2017 13:00,Ford Field,Detroit Lions,Cleveland Browns,38 - 24
+138,10,12/11/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Pittsburgh Steelers,17 - 20
+139,10,12/11/2017 13:00,EverBank Field,Jacksonville Jaguars,Los Angeles Chargers,20 - 17
+140,10,12/11/2017 13:00,Raymond James Stadium,Tampa Bay Buccaneers,New York Jets,15 - 10
+141,10,12/11/2017 13:00,Nissan Stadium,Tennessee Titans,Cincinnati Bengals,24 - 20
+142,10,12/11/2017 13:00,FedEx Field,Washington,Minnesota Vikings,30 - 38
+143,10,12/11/2017 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,Houston Texans,33 - 7
+144,10,12/11/2017 16:25,Mercedes-Benz Stadium,Atlanta Falcons,Dallas Cowboys,27 - 7
+145,10,12/11/2017 16:25,Levi's Stadium,San Francisco 49ers,New York Giants,31 - 21
+146,10,12/11/2017 20:30,Sports Authority Field at Mile High,Denver Broncos,New England Patriots,16 - 41
+147,10,13/11/2017 20:30,Bank of America Stadium,Carolina Panthers,Miami Dolphins,45 - 21
+148,11,16/11/2017 20:25,Heinz Field,Pittsburgh Steelers,Tennessee Titans,40 - 17
+8,11,19/11/2017 13:00,Hard Rock Stadium,Miami Dolphins,Tampa Bay Buccaneers,20 - 30
+149,11,19/11/2017 13:00,Soldier Field,Chicago Bears,Detroit Lions,24 - 27
+150,11,19/11/2017 13:00,Lambeau Field,Green Bay Packers,Baltimore Ravens,0 - 23
+151,11,19/11/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Jacksonville Jaguars,7 - 19
+152,11,19/11/2017 13:00,NRG Stadium,Houston Texans,Arizona Cardinals,31 - 21
+153,11,19/11/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Los Angeles Rams,24 - 7
+154,11,19/11/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Washington,34 - 31
+155,11,19/11/2017 13:00,MetLife Stadium,New York Giants,Kansas City Chiefs,12 - 9
+156,11,19/11/2017 16:05,StubHub Center,Los Angeles Chargers,Buffalo Bills,54 - 24
+157,11,19/11/2017 16:25,Sports Authority Field at Mile High,Denver Broncos,Cincinnati Bengals,17 - 200
+158,11,19/11/2017 16:25,Estadio Azteca,Oakland Raiders,New England Patriots,8 - 33
+159,11,19/11/2017 20:30,AT&T Stadium,Dallas Cowboys,Philadelphia Eagles,9 - 37
+160,11,20/11/2017 20:30,CenturyLink Field,Seattle Seahawks,Atlanta Falcons,31 - 34
+161,12,23/11/2017 12:30,Ford Field,Detroit Lions,Minnesota Vikings,23 - 30
+162,12,23/11/2017 16:30,AT&T Stadium,Dallas Cowboys,Los Angeles Chargers,6 - 28
+163,12,23/11/2017 20:30,FedEx Field,Washington,New York Giants,20 - 10
+164,12,26/11/2017 13:00,Mercedes-Benz Stadium,Atlanta Falcons,Tampa Bay Buccaneers,34 - 20
+165,12,26/11/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Cleveland Browns,30 - 16
+166,12,26/11/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Tennessee Titans,16 - 20
+167,12,26/11/2017 13:00,Arrowhead Stadium,Kansas City Chiefs,Buffalo Bills,10 - 16
+168,12,26/11/2017 13:00,Gillette Stadium,New England Patriots,Miami Dolphins,35 - 17
+169,12,26/11/2017 13:00,MetLife Stadium,New York Jets,Carolina Panthers,27 - 35
+170,12,26/11/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,Chicago Bears,31 - 3
+171,12,26/11/2017 16:05,Los Angeles Memorial Coliseum,Los Angeles Rams,New Orleans Saints,26 - 20
+172,12,26/11/2017 16:05,Levi's Stadium,San Francisco 49ers,Seattle Seahawks,13 - 24
+173,12,26/11/2017 16:25,U of Phoenix Stadium,Arizona Cardinals,Jacksonville Jaguars,27 - 24
+174,12,26/11/2017 16:25,Oakland Coliseum,Oakland Raiders,Denver Broncos,21 - 14
+175,12,26/11/2017 20:30,Heinz Field,Pittsburgh Steelers,Green Bay Packers,31 - 28
+176,12,27/11/2017 20:30,M&T Bank Stadium,Baltimore Ravens,Houston Texans,23 - 16
+177,13,30/11/2017 20:25,AT&T Stadium,Dallas Cowboys,Washington,28 - 14
+178,13,03/12/2017 13:00,Mercedes-Benz Stadium,Atlanta Falcons,Minnesota Vikings,9 - 14
+179,13,03/12/2017 13:00,M&T Bank Stadium,Baltimore Ravens,Detroit Lions,44 - 20
+180,13,03/12/2017 13:00,New Era Field,Buffalo Bills,New England Patriots,3 - 23
+181,13,03/12/2017 13:00,Soldier Field,Chicago Bears,San Francisco 49ers,14 - 15
+182,13,03/12/2017 13:00,Lambeau Field,Green Bay Packers,Tampa Bay Buccaneers,26 - 20
+183,13,03/12/2017 13:00,EverBank Field,Jacksonville Jaguars,Indianapolis Colts,30 - 10
+184,13,03/12/2017 13:00,Hard Rock Stadium,Miami Dolphins,Denver Broncos,35 - 9
+185,13,03/12/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Carolina Panthers,31 - 21
+186,13,03/12/2017 13:00,MetLife Stadium,New York Jets,Kansas City Chiefs,38 - 31
+187,13,03/12/2017 13:00,Nissan Stadium,Tennessee Titans,Houston Texans,24 - 13
+188,13,03/12/2017 16:05,StubHub Center,Los Angeles Chargers,Cleveland Browns,19 - 10
+189,13,03/12/2017 16:25,U of Phoenix Stadium,Arizona Cardinals,Los Angeles Rams,16 - 32
+190,13,03/12/2017 16:25,Oakland Coliseum,Oakland Raiders,New York Giants,24 - 17
+191,13,03/12/2017 20:30,CenturyLink Field,Seattle Seahawks,Philadelphia Eagles,24 - 10
+192,13,04/12/2017 20:30,Paul Brown Stadium,Cincinnati Bengals,Pittsburgh Steelers,20 - 23
+193,14,07/12/2017 20:25,Mercedes-Benz Stadium,Atlanta Falcons,New Orleans Saints,20 - 17
+194,14,10/12/2017 13:00,New Era Field,Buffalo Bills,Indianapolis Colts,13 - 7
+195,14,10/12/2017 13:00,Bank of America Stadium,Carolina Panthers,Minnesota Vikings,31 - 24
+196,14,10/12/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Chicago Bears,7 - 33
+197,14,10/12/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Green Bay Packers,21 - 27
+198,14,10/12/2017 13:00,NRG Stadium,Houston Texans,San Francisco 49ers,16 - 26
+200,14,10/12/2017 13:00,Arrowhead Stadium,Kansas City Chiefs,Oakland Raiders,26 - 15
+201,14,10/12/2017 13:00,Raymond James Stadium,Tampa Bay Buccaneers,Detroit Lions,21 - 24
+206,14,10/12/2017 13:00,MetLife Stadium,New York Giants,Dallas Cowboys,10 - 30
+202,14,10/12/2017 16:05,U of Phoenix Stadium,Arizona Cardinals,Tennessee Titans,12 - 7
+203,14,10/12/2017 16:05,Sports Authority Field at Mile High,Denver Broncos,New York Jets,23 - 0
+204,14,10/12/2017 16:05,StubHub Center,Los Angeles Chargers,Washington,30 - 13
+199,14,10/12/2017 16:25,EverBank Field,Jacksonville Jaguars,Seattle Seahawks,30 - 24
+205,14,10/12/2017 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,Philadelphia Eagles,35 - 43
+207,14,10/12/2017 20:30,Heinz Field,Pittsburgh Steelers,Baltimore Ravens,39 - 38
+208,14,11/12/2017 20:30,Hard Rock Stadium,Miami Dolphins,New England Patriots,27 - 20
+209,15,14/12/2017 20:25,Lucas Oil Stadium,Indianapolis Colts,Denver Broncos,13 - 25
+210,15,16/12/2017 16:30,Ford Field,Detroit Lions,Chicago Bears,20 - 10
+211,15,16/12/2017 20:30,Arrowhead Stadium,Kansas City Chiefs,Los Angeles Chargers,30 - 13
+212,15,17/12/2017 13:00,New Era Field,Buffalo Bills,Miami Dolphins,24 - 16
+213,15,17/12/2017 13:00,Bank of America Stadium,Carolina Panthers,Green Bay Packers,31 - 24
+214,15,17/12/2017 13:00,FirstEnergy Stadium,Cleveland Browns,Baltimore Ravens,10 - 27
+215,15,17/12/2017 13:00,EverBank Field,Jacksonville Jaguars,Houston Texans,45 - 7
+216,15,17/12/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Cincinnati Bengals,34 - 7
+217,15,17/12/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,New York Jets,31 - 19
+218,15,17/12/2017 13:00,MetLife Stadium,New York Giants,Philadelphia Eagles,29 - 34
+219,15,17/12/2017 13:00,FedEx Field,Washington,Arizona Cardinals,20 - 15
+220,15,17/12/2017 16:05,CenturyLink Field,Seattle Seahawks,Los Angeles Rams,7 - 42
+221,15,17/12/2017 16:25,Heinz Field,Pittsburgh Steelers,New England Patriots,24 - 27
+222,15,17/12/2017 16:25,Levi's Stadium,San Francisco 49ers,Tennessee Titans,25 - 23
+223,15,17/12/2017 20:30,Oakland Coliseum,Oakland Raiders,Dallas Cowboys,17 - 20
+224,15,18/12/2017 20:30,Raymond James Stadium,Tampa Bay Buccaneers,Atlanta Falcons,21 - 24
+225,16,23/12/2017 16:30,M&T Bank Stadium,Baltimore Ravens,Indianapolis Colts,23 - 16
+226,16,23/12/2017 20:30,Lambeau Field,Green Bay Packers,Minnesota Vikings,0 - 16
+227,16,24/12/2017 13:00,Bank of America Stadium,Carolina Panthers,Tampa Bay Buccaneers,22 - 19
+228,16,24/12/2017 13:00,Soldier Field,Chicago Bears,Cleveland Browns,20 - 3
+229,16,24/12/2017 13:00,Paul Brown Stadium,Cincinnati Bengals,Detroit Lions,26 - 17
+230,16,24/12/2017 13:00,Arrowhead Stadium,Kansas City Chiefs,Miami Dolphins,29 - 13
+231,16,24/12/2017 13:00,Gillette Stadium,New England Patriots,Buffalo Bills,37 - 16
+232,16,24/12/2017 13:00,Mercedes-Benz Superdome,New Orleans Saints,Atlanta Falcons,23 - 13
+233,16,24/12/2017 13:00,MetLife Stadium,New York Jets,Los Angeles Chargers,7 - 14
+234,16,24/12/2017 13:00,Nissan Stadium,Tennessee Titans,Los Angeles Rams,23 - 27
+235,16,24/12/2017 13:00,FedEx Field,Washington,Denver Broncos,27 - 11
+236,16,24/12/2017 16:05,Levi's Stadium,San Francisco 49ers,Jacksonville Jaguars,44 - 33
+237,16,24/12/2017 16:25,U of Phoenix Stadium,Arizona Cardinals,New York Giants,23 - 0
+238,16,24/12/2017 16:25,AT&T Stadium,Dallas Cowboys,Seattle Seahawks,12 - 21
+239,16,25/12/2017 16:30,NRG Stadium,Houston Texans,Pittsburgh Steelers,6 - 34
+240,16,25/12/2017 20:30,Lincoln Financial Field,Philadelphia Eagles,Oakland Raiders,19 - 10
+243,17,31/12/2017 13:00,Ford Field,Detroit Lions,Green Bay Packers,35 - 11
+244,17,31/12/2017 13:00,Lucas Oil Stadium,Indianapolis Colts,Houston Texans,22 - 13
+246,17,31/12/2017 13:00,U.S. Bank Stadium,Minnesota Vikings,Chicago Bears,23 - 10
+247,17,31/12/2017 13:00,Gillette Stadium,New England Patriots,New York Jets,26 - 6
+248,17,31/12/2017 13:00,MetLife Stadium,New York Giants,Washington,18 - 10
+249,17,31/12/2017 13:00,Lincoln Financial Field,Philadelphia Eagles,Dallas Cowboys,0 - 6
+250,17,31/12/2017 13:00,Heinz Field,Pittsburgh Steelers,Cleveland Browns,28 - 24
+241,17,31/12/2017 16:25,Mercedes-Benz Stadium,Atlanta Falcons,Carolina Panthers,22 - 10
+242,17,31/12/2017 16:25,M&T Bank Stadium,Baltimore Ravens,Cincinnati Bengals,27 - 31
+245,17,31/12/2017 16:25,Hard Rock Stadium,Miami Dolphins,Buffalo Bills,16 - 22
+251,17,31/12/2017 16:25,Raymond James Stadium,Tampa Bay Buccaneers,New Orleans Saints,31 - 24
+252,17,31/12/2017 16:25,Nissan Stadium,Tennessee Titans,Jacksonville Jaguars,15 - 10
+253,17,31/12/2017 16:25,Sports Authority Field at Mile High,Denver Broncos,Kansas City Chiefs,24 - 27
+254,17,31/12/2017 16:25,StubHub Center,Los Angeles Chargers,Oakland Raiders,30 - 10
+255,17,31/12/2017 16:25,Los Angeles Memorial Coliseum,Los Angeles Rams,San Francisco 49ers,13 - 34
+256,17,31/12/2017 16:25,CenturyLink Field,Seattle Seahawks,Arizona Cardinals,24 - 26
