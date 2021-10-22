@@ -7,8 +7,8 @@ R = NBA_relat()
 vanilla = BTC(mat, mod = 0)
 common = BTC(mat, mod = 1)
 minih = BTC(mat, mod = 2, rel = R)
-single = BTC(mat, mod = 4)
-hierarchical = BTC(mat, mod = 5, rel = R)
+single = BTC(mat, mod = 3)
+hierarchical = BTC(mat, mod = 4, rel = R)
 
 
 BT_plot(vanilla)

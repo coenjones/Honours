@@ -7,6 +7,6 @@ data = rbind(nfl16, nfl17, nfl18, nfl19)
 dat = ResultSplitter(data)
 mat = Data2Mat(dat)
 
-unique = BTC(mat, mod = 4)
+unique = BTC(mat, mod = 3)
 
 BT_plot(unique)

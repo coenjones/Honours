@@ -15,8 +15,8 @@ R = SimpleHierarchy(Groups, mat)
 vanilla = BTC(mat, mod = 0)
 common = BTC(mat, mod = 1)
 minih = BTC(mat, mod = 2, rel = R)
-single = BTC(mat, mod = 4)
-hierarchical = BTC(mat, mod = 5, rel = R)
+single = BTC(mat, mod = 3)
+hierarchical = BTC(mat, mod = 4, rel = R)
 
 
 BT_plot(vanilla)
@@ -33,7 +33,7 @@ BT_summary(hierarchical)
 WLTable(mat)
 
 
-TOspec = BTC(mat, mod = 6)
+TOspec = BTC(mat, mod = 5)
 
 
 BT_test(vanilla, common, mat)
