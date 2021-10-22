@@ -107,7 +107,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
                 Alpha.Errs = data.frame(alpha.errors, row.names = teams),
                 teams = teams, type = mod))
   }
-  if(mod == 5){
+  if(mod == 4){
     params = runif((1+max(rel))*length(teams))
     model = optim(par = params, fn = LL5, gr = LL5dash, mat = data, R=rel, method = 'BFGS')
     
@@ -128,7 +128,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
                 Alpha = Alpha[,-1],
                 teams = teams, type = mod))
   }
-  if(mod == 6){
+  if(mod == 5){
     params = runif((length(teams)+1)*length(teams))
     model = optim(par = params, fn = LL6, gr = LL6dash, mat = data, method = 'BFGS')
     
@@ -204,7 +204,7 @@ BT_plot = function(model){
       Sys.sleep(10)
     }
   }
-  if(model$type == 4){
+  if(model$type == 3){
     # Non-Hierarchical Models
     ### TODO - fix this so that sing can work
     sing = data.frame(Theta = model$Theta[,], Home = model$Theta[,] + model$Alpha[,],
@@ -224,7 +224,7 @@ BT_plot = function(model){
         )
     )
   }
-  if(model$type == 5){
+  if(model$type == 4){
     ### TODO 
     ### - try and make it so user interrupts, rather than a 10 second sleep
     ### - insert titles that specify what level of the hierarchy has been plotted
@@ -287,7 +287,7 @@ BT_summary = function(model){
   }
   
   
-  if(model$type == 4 | model$type == 5){
+  if(model$type == 3 | model$type == 4){
     # Unique Homeground Model - Prints out Theta and Alpha, ordered by Theta 
     print(cbind(round(model$Theta[order(-model$Theta), ,drop = FALSE], rf),
                 round(model$Alpha[order(-model$Theta),,drop=FALSE], rf)))
@@ -307,10 +307,10 @@ BT_predict = function(model, home_team, away_team, rel = NULL){
     if(model$type == 2){
       home_win = exp(model$Theta[home_team,] + model$Alpha[rel[home_team, away_team],])/(exp(model$Theta[home_team,]+ model$Alpha[rel[home_team, away_team],]) + exp(model$Theta[away_team,]))
     }
-    if(model$type == 4){
+    if(model$type == 3){
       home_win = exp(model$Theta[home_team,] + model$Alpha[home_team,])/(exp(model$Theta[home_team,]+ model$Alpha[home_team,]) + exp(model$Theta[away_team,]))
     }
-    if(model$type == 5){
+    if(model$type == 4){
       home_win = exp(model$Theta[home_team,] + model$Alpha[home_team, rel[home_team, away_team]])/(exp(model$Theta[home_team,]+ model$Alpha[home_team, rel[home_team, away_team]]) + exp(model$Theta[away_team,]))
     }
     #cat(home_team, 'win with probability', round(home_win, 4), '\n')
@@ -342,18 +342,18 @@ BT_test = function(model1, model2, mat, rel = NULL){
     cat('P-Value is ', 1 - pchisq(stat, df), '\n')
     cat('with a statistic of ', stat, 'and', df, 'degrees of freedom')
   }
-  if(m1$type == 0 & m2$type == 4){
+  if(m1$type == 0 & m2$type == 3){
     stat = -2*(LL4(c(m2$Theta[,], m2$Alpha[,]), mat) - LL(m1$Theta[,], mat))
     cat('P-Value is ', 1 - pchisq(stat, length(m1$teams)), '\n')
     cat('with a statistic of ', stat, 'and', length(m1$teams), 'degrees of freedom')
     }
-  if(m1$type == 0 & m2$type == 5){
+  if(m1$type == 0 & m2$type == 4){
     stat = -2*(LL5(H2Vec(m2), mat, rel) - LL(m1$Theta[,], mat))
     deg = dim(m2$Alpha)[1] * dim(m2$Alpha)[2]
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 0 & m2$type == 6){
+  if(m1$type == 0 & m2$type == 5){
     stat = -2*(LL6(m2$par, mat) - LL(m1$Theta[,], mat))
     df = (length(m1$teams))*(length(m1$teams) - 1)
     cat('P-Value is ', 1 - pchisq(stat, df), '\n')
@@ -366,53 +366,53 @@ BT_test = function(model1, model2, mat, rel = NULL){
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 1 & m2$type == 4){
+  if(m1$type == 1 & m2$type == 3){
     stat = -2*(LL4(c(m2$Theta[,], m2$Alpha[,]), mat) - LL1(c(m1$Theta[,], m1$Alpha), mat))
     cat('P-Value is ', (1 - pchisq(stat, length(m1$teams) - 1)), '\n')
     cat('with a statistic of ', stat, 'and', length(m1$teams) - 1, 'degrees of freedom')
   }
-  if(m1$type == 1 & m2$type == 5){
+  if(m1$type == 1 & m2$type == 4){
     stat = -2*(LL5(H2Vec(m2), mat, rel) - LL1(c(m1$Theta[,], m1$Alpha), mat))
     deg = (dim(m2$Alpha)[1] * dim(m2$Alpha)[2]) - 1
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 1 & m2$type == 6){
+  if(m1$type == 1 & m2$type == 5){
     stat = -2*(LL6(m2$par, mat) - LL1(c(m1$Theta[,], m1$Alpha), mat))
     deg = length(m2$par) - length(m1$teams) - 1
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 2 & m2$type == 4){
+  if(m1$type == 2 & m2$type == 3){
     stat = -2*(LL4(H2Vec(m2), mat) - LL2(H2Vec(m1), mat, rel))
     deg = length(H2Vec(m2)) - length(H2Vec(m1))
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 2 & m2$type == 5){
+  if(m1$type == 2 & m2$type == 4){
     stat = -2*(LL5(H2Vec(m2), mat, rel) - LL2(H2Vec(m1), mat, rel))
     deg = length(H2Vec(m2)) - length(H2Vec(m1))
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 2 & m2$type == 6){
+  if(m1$type == 2 & m2$type == 5){
     stat = -2*(LL6(m2$par, mat) - LL2(H2Vec(m1), mat, rel))
     deg = length(pwise$par) - length(H2Vec(m1))
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
   }
-  if(m1$type == 4 & m2$type == 5){
+  if(m1$type == 3 & m2$type == 4){
     stat = -2*(LL5(H2Vec(m2), mat, rel) - LL4(c(m1$Theta[,], m1$Alpha[,]), mat))
     deg = dim(m2$Alpha)[1] * (dim(m2$Alpha)[2] - 1)
     cat('P-Value is ', (1 - pchisq(stat, deg)), '\n')
     cat('with a statistic of ', stat, 'and', deg, 'degrees of freedom')
     }
-  if(m1$type == 4 & m2$type == 6){
+  if(m1$type == 3 & m2$type == 5){
     stat = -2*(LL6(m2$par, mat) - LL4(c(m1$Theta[,], m1$Alpha[,]), mat))
     cat('P-Value is ', 1 - pchisq(stat, (length(m1$teams) - 1)^2), '\n')
     cat('with a statistic of ', stat, 'and', (length(m1$teams) - 1)^2, 'degrees of freedom.')
   }
-  if(m1$type == 5 & m2$type == 6){
+  if(m1$type == 4 & m2$type == 5){
     stat = -2*(LL6(m2$par, mat) - LL5(H2Vec(m1), mat, rel))
     df = length(m2$par) - length(H2Vec(m1))
     cat('P-Value is ', (1 - pchisq(stat, df)), '\n')

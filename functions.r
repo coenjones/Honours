@@ -257,7 +257,7 @@ Hess2 = function(theta, alpha, mat, R){
 }
 
 
-# Model 4 - Unique Homeground
+# Model 3 - Unique Homeground
 LL4 = function(params, mat){
   # mat contains mat$h, mat$w, mat$l
   # params is the vector of thetas, followed by the vector of deltas.
@@ -330,7 +330,7 @@ Hess4 = function(theta, alpha, mat){
 }
 
 
-# Model 5 - Hierarchical 
+# Model 4 - Hierarchical 
 LL5 = function(params, mat, R){
   # mat contains mat$h, mat$w, mat$l
   # params is the vector of thetas, followed by the vector of deltas.
@@ -420,7 +420,7 @@ Hess5 = function(theta, alpha, mat, R){
   return(output)
 }
 
-# Model 6 - Pairwise Homegrounds 
+# Model 5 - Pairwise Homegrounds 
 LL6 = function(params, mat){
   # mat contains mat$h, mat$w, mat$l
   # params is the vector of thetas, followed by the vector of deltas.
@@ -570,7 +570,7 @@ nparams = function(mat, model_type, rel = NULL){
   if(model_type == 0){return(length(mat$teams))}
   if(model_type == 1){return(length(mat$teams) + 1)}
   if(model_type == 2){return(length(mat$teams) + max(rel))}
-  if(model_type == 4){return(2*length(mat$teams))}
-  if(model_type == 5){return((1 + max(rel))*length(mat$teams))}
-  if(model_type == 6){return(length(mat$teams)*(length(mat$teams) + 1))}
+  if(model_type == 3){return(2*length(mat$teams))}
+  if(model_type == 4){return((1 + max(rel))*length(mat$teams))}
+  if(model_type == 5){return(length(mat$teams)*(length(mat$teams) + 1))}
 }
