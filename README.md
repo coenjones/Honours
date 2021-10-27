@@ -5,3 +5,5 @@ Publicly accessible collection of code, docs and figures from my Honours thesis 
 Dependencies - ggplot2 and matlib
 
 Run source('module.r') in R to import all the available functionality. The examples folder includes a number of interesting examples with reference to the data found in Data
+
+A video summarising some of the functionality can be found at https://youtu.be/WcByZP34Gg8
