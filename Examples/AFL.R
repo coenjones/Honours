@@ -20,6 +20,8 @@ hierarchical = BTC(mat, mod = 4, rel = R)
 
 
 BT_plot(vanilla)
+BT_plot(common)
+BT_plot(minih)
 BT_plot(single)
 
 
