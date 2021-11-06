@@ -8,4 +8,4 @@ Run source('module.r') in R to import all the available functionality. The examp
 
 A video summarising some of the functionality can be found at https://youtu.be/WcByZP34Gg8
 
-Thesis.pdf contains the document for which this package was designed, but a more concise vignette and documentation file for the codebase alone does not yet exist. The code for the examples shown in Chapter 4 can be found under AFL.R and NBA_example.R in the Examples folder.
+Thesis.pdf contains the document for which this package was designed, but a more concise vignette and documentation file for the codebase alone does not yet exist. Chapter 3 of this document does enclose most of the information required for using the package alone, whilst Chapter 2 introduces the mathematical formulations of each of the models that have been implemented. The code for the examples shown in Chapter 4 can also be found under AFL.R and NBA_example.R in the Examples folder.
