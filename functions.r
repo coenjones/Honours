@@ -467,6 +467,7 @@ LL6dash = function(params, mat){
 
 
 NBA_relat = function(){
+  # Function for creating the NBA relationship matrix
   data = read.csv('Data/NBA16-20.csv')
   teams = unique(data$home.team)
   ATL = c('Boston Celtics',

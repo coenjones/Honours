@@ -3,7 +3,6 @@ library(ggplot2)
 library(matlib)
 
 
-# NEED TO CLEAN UP OUTPUT FOR MODEL 2
 BTC = function(data, mod, rel = NULL, ref = 'last'){
   # Coen's Bradley Terry Model 
   # Returns the 'thetas' with the first parameter set to 0
@@ -31,7 +30,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
     
     return(list(Theta = data.frame(Theta, row.names = teams),
                 Std.Errors = data.frame(errors, row.names = data$teams[-which(data$teams == ref)]),
-                teams = teams, type = mod))
+                teams = teams, type = mod, ref = ref))
   }
   if(mod == 1){
     params = runif(length(teams) + 1)
@@ -54,7 +53,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
     return(list(Theta = data.frame(Theta = theta, row.names = teams),
                 Alpha = alpha,
                 Std.Errors = data.frame(errors, row.names = c(teams[-which(teams == ref)], 'Alpha')),
-                teams = teams, type = mod))
+                teams = teams, type = mod, ref = ref))
   }
   if(mod == 2){
     params = runif(length(teams) + max(rel))
@@ -79,7 +78,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
     return(list(Theta = data.frame(Theta = theta, row.names = teams), 
                 Alpha = data.frame(Alpha = alpha, row.names = 1:max(rel)),
                 Std.Errors = data.frame(errors, row.names = c(teams[-which(teams == ref)], 1:max(rel))),
-                teams = teams, type = mod))
+                teams = teams, type = mod, ref = ref))
   }
   if(mod == 3){
     params = runif(2*length(teams))
@@ -105,7 +104,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
                 Alpha = data.frame(Alpha = alpha, row.names = teams),
                 Theta.Errs = data.frame(theta.errors, row.names = teams[-which(teams == ref)]),
                 Alpha.Errs = data.frame(alpha.errors, row.names = teams),
-                teams = teams, type = mod))
+                teams = teams, type = mod, ref = ref))
   }
   if(mod == 4){
     params = runif((1+max(rel))*length(teams))
@@ -126,7 +125,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
     }
     return(list(Theta = Theta, 
                 Alpha = Alpha[,-1],
-                teams = teams, type = mod))
+                teams = teams, type = mod, ref = ref))
   }
   if(mod == 5){
     params = runif((length(teams)+1)*length(teams))
@@ -137,7 +136,7 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
     } 
     
     model$par[1:length(teams)] = model$par[1:length(teams)] - model$par[which(teams == ref)]
-    return(list(par = model$par, teams = teams, type = mod))
+    return(list(par = model$par, teams = teams, type = mod, ref = ref))
   }
   
 }
@@ -145,6 +144,10 @@ BTC = function(data, mod, rel = NULL, ref = 'last'){
 BT_plot = function(model){
   ## Takes in a Bradley-Terry model from the BTC function and produces a plot
   ## of the parameters by team.
+  
+  ## For hierarchical models, it prints each plot every ten seconds, starting
+  ## with H_1, up to H_n
+  
   if(model$type == 0){
     # Vanilla Model
     vanilla = model$Theta
@@ -324,6 +327,8 @@ BT_predict = function(model, home_team, away_team, rel = NULL){
 }
 
 BT_test = function(model1, model2, mat, rel = NULL){
+  ## Function for performing the hypothesis tests outlined in the thesis
+  
   m1 = model1; m2 = model2
   if(model1$type > model2$type){
     m1 = model2; m2 = model1
@@ -422,6 +427,7 @@ BT_test = function(model1, model2, mat, rel = NULL){
 
 BT_bootstrap = function(model, fixture, runs = 100, rel = NULL){
   # Run once, then run n-1 times
+  print('Warning: runtime for BT_bootstrap() may be long for large datasets and/or number of runs')
   terrs = NULL; aerrs = NULL
   badteam = which.min(model$Theta[[1]])
   m = BTC(Data2Mat(SeasonSim(model, fixture, rel)), model$type, rel)
